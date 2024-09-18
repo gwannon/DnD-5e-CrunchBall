@@ -1,8 +1,12 @@
 # Jugador/a de CrunchBall (JCB)
 
-## Rasgos de clase
+Los partidos de CrunchBall son tan duros y brutales que solo los más preparados pueden dedicarse profesionalmente a jugar en las diferentes ligas de CrunchBall.
 
-Como JCB, tienes los siguientes rasgos de clase.
+Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosa.
+
+
+
+## Rasgos de clase
 
 ### Puntos de golpe
 
@@ -13,57 +17,70 @@ Como JCB, tienes los siguientes rasgos de clase.
 ### Competencias
 
 * **Armadura:** Sencillas
-* **Armas:** Armas sencillas, nudilleras, guanteletes y guanteletess armados.
-* **Herramientas:** Elige un tipo de herramienta de artesano o un instrumento musical
+* **Armas:** Armas sencillas, nudilleras, guanteletes y guanteletes armados.
+* **Herramientas:** Elige un tipo de herramienta de sastre o un instrumento musical.
 * **Tiradas de salvación:** Fuerza, Destreza
-* **Habilidades:** Elige dos entre Acrobacias, Atletismo, xxx y Sigilo
+* **Habilidades:** Elige dos entre Acrobacias, Atletismo, Juegos de manos, Intimidar, Percepción y Perspicacia
+
 
 ### Equipo
 
 Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo:
 
-* Cualquier arma sencilla.
-* Armadura simple.
-* Equipamiento para jugar al CrunchBall
-* Un pack de aventurero o (b) un pack de explorador.
-* xxx
-
 \column
 
-### Jugador/a de CrunchBall
+![Corredor](https://i.ebayimg.com/images/g/h4MAAOSwzm1iub5z/s-l1600.webp) {width:325px,mix-blend-mode:multiply}
+
+
+* Cualquier arma sencilla.
+* Armadura simple.
+* Equipamiento para jugar al CrunchBall: pelota, sobretodo con los colores de tu equipo, chichonera, coderas y rodilleras, guantes
+* Un pack de aventurero o un pack de explorador.
+
+{{classTable,wide
+
+&nbsp;
+
 
 |Nivel|Bonificador por competencia|Esprintar Ar. Ligeras/Medias/Pesadas|Rasgos|
 |-----|---------------------------|---------|------|
 |1|2| - |Liniero/a, Estilo de juego|
 |2|2|+5/0/0|Esprintar|
-|3|2|+5/0/0|Posición|
+|3|2|+5/0/0|Posición en el campo|
 |4|2|+5/0/0|Mejora de característica|
 |5|3|+5/0/0||
 |6|3|+5/0/0|Mejora de característica|
-|7|3|+10/+5/0||
+|7|3|+10/+5/0|Rasgo de posición en el campo|
 |8|3|+10/+5/0|Mejora de característica|
 |9|4|+10/+5/0||
-|10|4|+10/+5/0||
+|10|4|+10/+5/0|Rasgo de posición en el campo|
 |11|4|+10/+5/0||
 |12|4|+15/+10/+5|Mejora de característica|
 |13|5|+15/+10/+5||
 |14|5|+15/+10/+5|Mejora de característica|
-|15|5|+15/+10/+5||
+|15|5|+15/+10/+5|Rasgo de posición en el campo|
 |16|5|+15/+10/+5|Mejora de característica|
 |17|6|+20/+15/+10||
-|18|6|+20/+15/+10||
+|18|6|+20/+15/+10|Rasgo de posición en el campo|
 |19|6|+20/+15/+10|Mejora de característica|
 |20|6|+20/+15/+10||
+}}
+
+{{pageNumber 1}}
+\page
+
 
 ### Liniero/a
 
-Todo JCB empeiza como lo liniero, la posición más simple del equipo, durante su entrenamiento aprende a xxx
+Todo JCB empieza como lo liniero, la posición más simple del equipo, durante su entrenamiento aprende a correr, lanzar y recibir el balón, placar al contrincante, ...
+
+xxx
 
 ### Estilo de juego
 
 #### Ágil
 
-xxx
+Mientras llevas armadura, recibes un bonificador de +1 a tu CA.
 
 #### Técnico
 
@@ -75,9 +92,7 @@ Cuando eliges este estilo de juego, consigues competencia con armaduras medias y
 
 #### Tramposo
 
-xxx
-
-\page
+Consigues competencia en dos habilidades, Sigilo y Juegos de manos.
 
 ### Esprintar
 
@@ -87,42 +102,56 @@ A partir del nivel 2, tu velocidad aumenta en 5 pies siempre que lleves como muc
 
 Cuando alcanzas el nivel 4, y de nuevo en los niveles 6, 8, 12, 14, 16 y 19, puedes aumentar una puntuación de característica de tu elección en 2 o dos puntuaciones de característica en 1. Como siempre, no puedes aumentar una puntuación de característica por encima de 20 usando este rasgo.
 
-### Posición
+### Posición en el campo
 
-#### Bloqueador
+En el nivel 3 comienzas a entrenar para jugar en una posición más especializada a tu elección, como lanzador o corredor. El arquetipo te otorga rasgos en el nivel 3 y de nuevo en los niveles 7, 10, 15 y 18.
 
-xxx
+## Posiciones en el campo
 
-#### Lanzador
+Cada JCB puede, según avanza en su desarrollo deportivo, se puede especializar en 4 posiciones (arquetipos) y aprender las destrezas y las habilidades de ese puesto.
 
-xxx
+### Bloqueador/a
 
-#### Receptor
-
-xxx
-
-#### Corredor
+Su misión es defender al resto del equipo mientras hacen su jugada o romper las defensas del equipo contrario cuando hay que robarles el balón.
 
 xxx
 
-***
-
-### Trasfondos
-
-#### De las ligas menores
+### Lanzador
 
 xxx
 
-### Armas de JCB
-
-#### Nudilleras
+### Receptor
 
 xxx
 
-#### Guantelete
+### Corredor
 
 xxx
 
-#### Guantelete armado
+## Trasfondos
+
+### De las ligas menores
 
 xxx
+
+## Armas de JCB
+
+### Nudilleras
+
+xxx
+
+### Guantelete
+
+xxx
+
+### Guantelete armado
+
+xxx
+
+|Coste|Daño|Peso|Propiedades|
+|-----|----|----|-----------|
+|1 mo|1d4 contundente|1 lb.|Guante|
+
+**Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no se la puede desarmar. Puedes sostener objetos, empuñar armas y lanzar hechizos con una mano equipada con un arma de guante, pero sólo puedes atacar con el arma de guante si esa mano está desocupada. Se necesita una acción de Usar objeto para ponerse o quitarse un arma de guante.
+
+{{pageNumber 2}}

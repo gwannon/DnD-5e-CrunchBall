@@ -4,6 +4,10 @@ Desarrollo usando OPEN GAME	LICENSE	Version	1.0a
 
 El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com/)
 
+## Atribuciones
+
+[Balón](https://www.rawpixel.com/image/14731354/png-american-football-ball-american-football-sports-rugby)
+
 ## Comandos MD especiales
 
 * Salto de columna: \column
