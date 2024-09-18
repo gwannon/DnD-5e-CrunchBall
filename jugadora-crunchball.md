@@ -1,10 +1,8 @@
 # Jugador/a de CrunchBall (JCB)
 
-Los partidos de CrunchBall son tan duros y brutales que solo los más preparados pueden dedicarse profesionalmente a jugar en las diferentes ligas de CrunchBall.
+Los partidos de CrunchBall son tan duros y brutales que solo los más preparados pueden dedicarse profesionalmente a jugar en las diferentes ligas de este apasionante deporte.
 
 Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosa.
-
-
 
 ## Rasgos de clase
 
@@ -20,8 +18,7 @@ Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmo
 * **Armas:** Armas sencillas, nudilleras, guanteletes y guanteletes armados.
 * **Herramientas:** Elige un tipo de herramienta de sastre o un instrumento musical.
 * **Tiradas de salvación:** Fuerza, Destreza
-* **Habilidades:** Elige dos entre Acrobacias, Atletismo, Juegos de manos, Intimidar, Percepción y Perspicacia
-
+* **Habilidades:** Elige dos entre Acrobacias, Atletismo, Intimidar, Percepción y Perspicacia
 
 ### Equipo
 
@@ -38,32 +35,28 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 * Un pack de aventurero o un pack de explorador.
 
 {{classTable,wide
-
-&nbsp;
-
-
 |Nivel|Bonificador por competencia|Esprintar Ar. Ligeras/Medias/Pesadas|Rasgos|
 |-----|---------------------------|---------|------|
 |1|2| - |Liniero/a, Estilo de juego|
 |2|2|+5/0/0|Esprintar|
 |3|2|+5/0/0|Posición en el campo|
 |4|2|+5/0/0|Mejora de característica|
-|5|3|+5/0/0||
+|5|3|+5/0/0|xxx|
 |6|3|+5/0/0|Mejora de característica|
 |7|3|+10/+5/0|Rasgo de posición en el campo|
 |8|3|+10/+5/0|Mejora de característica|
-|9|4|+10/+5/0||
+|9|4|+10/+5/0|xxx|
 |10|4|+10/+5/0|Rasgo de posición en el campo|
-|11|4|+10/+5/0||
+|11|4|+10/+5/0|xxx|
 |12|4|+15/+10/+5|Mejora de característica|
-|13|5|+15/+10/+5||
+|13|5|+15/+10/+5|xxx|
 |14|5|+15/+10/+5|Mejora de característica|
 |15|5|+15/+10/+5|Rasgo de posición en el campo|
 |16|5|+15/+10/+5|Mejora de característica|
-|17|6|+20/+15/+10||
+|17|6|+20/+15/+10|xxx|
 |18|6|+20/+15/+10|Rasgo de posición en el campo|
 |19|6|+20/+15/+10|Mejora de característica|
-|20|6|+20/+15/+10||
+|20|6|+20/+15/+10|xxx|
 }}
 
 {{pageNumber 1}}
