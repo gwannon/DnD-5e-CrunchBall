@@ -4,7 +4,7 @@
 
 xxx
 
-## Reglas del CrunchBall
+## Reglamento del CrunchBall
 
 xxx
 
@@ -13,5 +13,13 @@ xxx
 xxx
 
 ## Ligas actuales
+
+xxx
+
+## Reglas para hacer partidos
+
+xxx
+
+## Reglas para hacer ligas
 
 xxx

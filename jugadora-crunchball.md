@@ -23,28 +23,26 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 * Un pack de aventurero o (b) un pack de explorador.
 * xxx
 
-## Jugador de CrunchBall
-
+## Jugador/a de CrunchBall
 
 |Nivel|Bonificador por competencia|Rasgos|
 |-----|---------------------------|------|
-|1|2|xxx|
+|1|2|Estilo de juego|
 
 ## Estilo de juego
+
+### Ágil
+
+xxx
+### Técnico
+
+xxx
 
 ### Rudo
 
 xxx
 
-### Técnico
-
-xxx
-
 ### Tramposo
-
-xxx
-
-### Ágil
 
 xxx
 
