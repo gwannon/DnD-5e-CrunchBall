@@ -111,11 +111,15 @@ Cada JCB, según avanza en su desarrollo deportivo, se puede especializar en 4 p
 
 Su misión es defender al resto del equipo mientras hacen su jugada o romper las defensas del equipo contrario cuando hay que robarles el balón.
 
+A nivel 3 aprendes a proteger a otros jugadores/as de forma eficiente. Todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti. 
+
 xxx
 
 ### Lanzador
 
 xxx
+
+A nivel 3 has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas. Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.   
 
 ### Receptor
 
@@ -126,6 +130,8 @@ xxx
 Unas de las figuras más queridas del CrunchBall por el público son los valientes corredores. Estos temerarios recogen el balón y corren hasta la línea de meta esquivando o placando enemigos.
 
 A nivel 3 tu entrenamiento corriendo en todo tipo de entorno hace que en combate no sufras penalizaciones por terreno difícil.
+
+xxx
 
 ## De las ligas menores (Transforndo)
 
@@ -185,7 +191,7 @@ Estos guanteles son como los que se venden con las armaduras sin ningún tipo de
 
 ### Guantelete armado
 
-Este gauntelete ha sido modificado con placas contundentes de metal, cuchillas o pinchos para aumentar su capacidad de hacer daño. Las reglas del juego no permiten que esos elementos estén afilados (deben ser romos) por lo que siempre hacen daño contundente. La elección de pincho o cuchillas es una cuestión más estética que otra cosa. 
+Este guantelete ha sido modificado con placas contundentes de metal, cuchillas o pinchos para aumentar su capacidad de hacer daño. Las reglas del juego no permiten que esos elementos estén afilados (deben ser romos) por lo que siempre hacen daño contundente. La elección de pincho o cuchillas es una cuestión más estética que otra cosa. 
 
 |Coste|Daño|Peso|Propiedades|
 |-----|----|----|-----------|
