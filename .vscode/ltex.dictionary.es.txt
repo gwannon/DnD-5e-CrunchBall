@@ -4,3 +4,10 @@ CrunchBall
 Bonificador
 1d8
 placando
+1d6
+pageNumber
+page
+lb
+mo
+xxx
+Cazamagos

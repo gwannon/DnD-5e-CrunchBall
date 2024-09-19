@@ -1,8 +1,101 @@
+{{frontCover}}
+
+{{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+# Esto es CrunchBall
+## Guía deportiva del CrunchBall para D&D 5e
+___
+
+{{banner por Gwannon}}
+
+{{footnote
+Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+}}
+
+![background image](https://i.ebayimg.com/images/g/h4MAAOSwzm1iub5z/s-l1600.webp){position:absolute,top:0,left:0,width:100%}
+
+\page
+
+# Historia del CrunchBall
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{{pageNumber 1}}
+
+\page
+
+# Reglamento del CrunchBall
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+El uso de magia dentro del campo está totalmente prohibido. Dentro del campo no puede haber ningún tipo de elemento mágico.
+
+{{pageNumber 2}}
+
+\page
+
+# Salón de la fama
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{{pageNumber 3}}
+
+\page
+
+# Ligas actuales
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{{pageNumber 4}}
+
+\page
+
+# Reglas para hacer partidos
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Recaudación del partido
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{{pageNumber 5}}
+
+\page
+
+# Reglas para hacer ligas
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Robar estandartes
+
+Las ligas no tienen un calendario fijado cada temporada en el que se fijan los encuentros entre los diferentes equipos. Es muy difícil cumplir las fechas y los imprevistos pueden ser miles desde una plaga zombi a que la ciudad donde estaba el equipo pase a otro plano. Lo que se hace un sistema llamado Robo de estandartes.
+
+Cada equipo tiene un estandarte con sus colores que normalmente luce en su campo. El equipo local recibe a equipos visitantes que lo desafían, el local debe decidir si lo acepta o no. El equipo visitante solo puede desafiar a equipos de su mismo nivel a superior y en general los equipos locales aceptan todos esos los desafíos, pero puede haber excepciones como que no tengas el equipo completo o lleven muchos días seguidos jugando partidos. 
+
+**El nivel lo marca el número de banderines** de otros equipos que has robado al ganarles partidos. Cuando pierdes un partido en casa el equipo visitante puede llevarse el estandarte del equipo local. En ese momento el equipo local no puede jugar en su campo y tiene que ir a jugar a otros campos a robar banderines hasta igualar el nivel del equipo que tiene su estandarte. Una vez tiene el nivel suficiente, puede intentar ir al campo del equipo que tiene su bandera y luchar por recuperarla.
+
+Lo normal los equipos estén un tiempo jugando contra visitantes en sus campos y luego salgan de viaje para ganar más banderas o recuperar su bandera. En esos viajes juegan varios encuentros muchas veces medios pactados, pero puede que si les va muy bien o muy mal el viaje se alargue o se acorte.
+
+De normal, pero no siempre, robas el banderín de equipo local, pero si quieres puedes robarle el de otro equipo que tenga en su estadio. Esto se hace muchas veces para forzar a ciertos equipos a enfrentarse a mi equipo por rencillas entre ellos o porque la recaudación del partido puede ser muy jugosa. 
+
+Si ninguno de los equipos tiene su banderín, no pueden jugar en su campo y deben jugar en el campo de un tercer equipo. En este caso, como no hay locales, el ganador simplemente roba un banderín al perdedor.
+
+Al final de temporada los dos equipos con más banderines se enfrentan en una final en un campo de un tercer equipo.
+
+Podría parecer que pudiera haber equipos que jugarán menos partidos más escogidos y conseguir un buen número de banderines, pero recordemos que los equipos viven de la recaudación de los encuentros y si no se enfrentan a otros equipos no ganan dinero. Muchos equipos salen de gira no porque lo necesiten para ganar la liga, sino porque hay que ganar dinero. 
+
+### Espónsores
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{{pageNumber 6}}
+\page
+
 # Jugador/a de CrunchBall (JCB)
 
 Los partidos de CrunchBall son tan duros y brutales que solo los más preparados pueden dedicarse profesionalmente a jugar en las diferentes ligas de este apasionante deporte.
 
-Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosa.
+Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 
 ## Rasgos de clase
 
@@ -30,7 +123,7 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 
 * Cualquier arma sencilla.
 * Armadura simple.
-* Equipamiento para jugar al CrunchBall: pelota, sobretodo con los colores de tu equipo, chichonera, coderas y rodilleras, guantes
+* Equipamiento para jugar al CrunchBall: pelota, sobre todo con los colores de tu equipo, chichonera, coderas y rodilleras, guantes
 * Un pack de aventurero o un pack de explorador.
 
 {{classTable,wide
@@ -40,13 +133,13 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 |2|2|+5/0/0|Esprint adicional|
 |3|2|+5/0/0|Posición en el campo|
 |4|2|+5/0/0|Mejora de característica|
-|5|3|+5/0/0|Cazamagos|
+|5|3|+5/0/0|Leer a tu oponente I|
 |6|3|+5/0/0|Mejora de característica|
 |7|3|+10/+5/0|Rasgo de posición en el campo|
 |8|3|+10/+5/0|Mejora de característica|
-|9|4|+10/+5/0|xxx|
+|9|4|+10/+5/0|Cazamagos|
 |10|4|+10/+5/0|Rasgo de posición en el campo|
-|11|4|+10/+5/0|xxx|
+|11|4|+10/+5/0|Leer a tu oponente II|
 |12|4|+15/+10/+5|Mejora de característica|
 |13|5|+15/+10/+5|xxx|
 |14|5|+15/+10/+5|Mejora de característica|
@@ -58,7 +151,8 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 |20|6|+20/+15/+10|xxx|
 }}
 
-{{pageNumber 1}}
+{{pageNumber 7}}
+
 \page
 
 ### Liniero/a
@@ -97,11 +191,23 @@ Cuando alcanzas el nivel 4, y de nuevo en los niveles 6, 8, 12, 14, 16 y 19, pue
 
 En el nivel 3 comienzas a entrenar para jugar en una posición más especializada a tu elección, como lanzador o corredor. El arquetipo te otorga rasgos en el nivel 3 y de nuevo en los niveles 7, 10, 15 y 18.
 
+### Leer a tu oponente I
+
+Las grandes jugadoras y jugadores de CrunchBall aprenden a leer a sus oponentes. Leen su lenguaje corporal, sus tics, sus expresiones y sus tonos de voz y aprenden a interpretarlos. En mitad de combate pueden gastar una acción xxx y tirar Perspicacia (CA xxx) para xxx
+
+En caso de tener competencia con Perspicacia, reciben esa competencia en vez de Leer a tu oponente.
+
 ### Cazamagos
 
 La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 5, recibes la competencia en la habilidad Conocimiento arcano.
 
 A estos niveles de profesionalidad no es raro que haya magas, hechiceros y seres con habilidades mágicas en los equipos y estos conocimientos mágicos son muy útiles para detectar la magia y defenderse de ella.
+
+### Leer a tu oponente II
+
+xxx
+
+Si no tienen Leer a tu oponente, reciben ese rasgo en vez de Leer a tu oponente II.
 
 ## Posiciones en el campo
 
@@ -111,29 +217,69 @@ Cada JCB, según avanza en su desarrollo deportivo, se puede especializar en 4 p
 
 Su misión es defender al resto del equipo mientras hacen su jugada o romper las defensas del equipo contrario cuando hay que robarles el balón.
 
-A nivel 3 aprendes a proteger a otros jugadores/as de forma eficiente. Todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti. 
+**A nivel 3** aprendes a proteger a otros jugadores/as de forma eficiente. Si lo decides al principio de tu turno, todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja hasta su siguiente turno. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti. 
 
-xxx
+**Cuando alcanzas el nivel 7** eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
+
+**A nivel 10** xxx
+
+**Al alcanzar el nivel 15** xxx 
+
+**A nivel 18** xxx
 
 ### Lanzador
 
-xxx
+Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el eje principal de la mayoría de las jugadas y hacer lanzamientos precisos que ponen al público en pie mientras vuela la pelota para caer en menos de un receptor.
 
-A nivel 3 has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas. Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.   
+**A nivel 3** has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas.
+
+{{pageNumber 8}}
+
+\page
+
+Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.   
+
+**Cuando alcanzas el nivel 7** xxx
+
+**Al alcanzar el nivel 10** xxx
+
+**A nivel 15** xxx 
+
+**Cuando alcanzas el nivel 18** xxx
 
 ### Receptor
 
-xxx
+Siendo el elemento más pido y diestro del equipo pueden colarse entre las líneas del equipo del enemigo y esquivar a sus atacantes hasta recibir un pase un marcar un tanto.
+
+**Cuando alcanzas el nivel 3** te conviertes en un gran saltador de forma que pueden sumar tu bonificador de Destreza a tu Fuerza a la hora de calcular la altura de sus saltos de altura.
+
+También pueden sumar tu Destreza a tu Fuerza a la hora de calcular la distancia de tus saltos largos.
+
+En caso de tener que hacer tiradas el bonificador de Destreza se suma a tu Fue. Además, eres tan bueno saltando que durante el salto puedes hacer interacciones con objetos que te rodean como si fuera movimiento normal de forma que durante el salto puedes coger o dar un objeto a otra persona o recoger un objeto del suelo.
+
+**En el nivel 7** xxx
+
+**Al alcanzar el nivel 10** xxx
+
+**Cuando alcanzas el nivel 15** xxx 
+
+**A nivel 18** xxx
 
 ### Corredor
 
 Unas de las figuras más queridas del CrunchBall por el público son los valientes corredores. Estos temerarios recogen el balón y corren hasta la línea de meta esquivando o placando enemigos.
 
-A nivel 3 tu entrenamiento corriendo en todo tipo de entorno hace que en combate no sufras penalizaciones por terreno difícil.
+**A nivel 3** tu entrenamiento corriendo en todo tipo de entorno hace que en combate no sufras penalizaciones por terreno difícil.
 
-xxx
+**Cuando alcanzas el nivel 7,** xxx
 
-## De las ligas menores (Transforndo)
+**A nivel 10** xxx
+
+**Al alcanzar el nivel 15** xxx 
+
+**A nivel 18** xxx
+
+## De las ligas menores (Trasfondo)
 
 xxx
 
@@ -141,7 +287,7 @@ xxx
 
 **Idiomas:** xxx 2 idiomas
 
-**Equipo:** xxx un saco que contiene 15 po.
+**Equipo:** xxx un saco que contiene 15 mo.
 
 **Rasgo: xxx**
 
@@ -154,22 +300,40 @@ xxx
 |1d8|Rasgo de personalidad|
 |---|---------------------|
 |1||
+|2||
+|3||
+|4||
+|5||
+|6||
+|7||
+|8||
 
 |1d6|Ideal|
 |---|-----|
 |1||
+|2||
+|3||
+|4||
+|5||
+|6||
 
 |1d6|Vínculo|
 |---|-------|
 |1||
+|2||
+|3||
+|4||
+|5||
+|6||
 
 |1d6|Desventaja|
 |---|----------|
 |1||
-
-{{pageNumber 2}}
-
-\page
+|2||
+|3||
+|4||
+|5||
+|6||
 
 ## Armas de JCB
 
@@ -183,11 +347,15 @@ Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los 
 
 ### Guantelete
 
-Estos guanteles son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
+Estos guanteletes son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
 
 |Coste|Daño|Peso|Propiedades|
 |-----|----|----|-----------|
 |8 mo¹|1d4 contundente|0,5 lb|Guante¹|
+
+{{pageNumber 9}}
+
+\page
 
 ### Guantelete armado
 
@@ -200,4 +368,29 @@ Este guantelete ha sido modificado con placas contundentes de metal, cuchillas o
 _¹ Precio es por unidad, ya que hay jugadores/as que solo usan uno y tienen la otra mano sin guantelete._
 _**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no se la puede desarmar. Puedes sostener objetos, empuñar armas y lanzar hechizos con una mano equipada con un arma de guante, pero solo puedes atacar con el arma de guante si esa mano está desocupada. Se necesita una acción de Usar objeto para ponerse o quitarse un arma de guante._
 
-{{pageNumber 3}}
+{{pageNumber 10}}
+
+\page
+
+{{backCover}}
+
+# Esto es CrunchBall
+
+Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+:
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+___
+
+xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+![background image](https://i.ebayimg.com/images/g/h4MAAOSwzm1iub5z/s-l1600.webp){position:absolute,top:0,left:0,width:100%}
+
+{{logo
+![](/assets/naturalCritLogoWhite.svg)
+
+Maquetado con Homebrewery.Naturalcrit.com
+}}
