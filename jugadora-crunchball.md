@@ -28,7 +28,6 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 
 ![Corredor](https://i.ebayimg.com/images/g/h4MAAOSwzm1iub5z/s-l1600.webp) {width:325px,mix-blend-mode:multiply}
 
-
 * Cualquier arma sencilla.
 * Armadura simple.
 * Equipamiento para jugar al CrunchBall: pelota, sobretodo con los colores de tu equipo, chichonera, coderas y rodilleras, guantes
@@ -101,7 +100,7 @@ En el nivel 3 comienzas a entrenar para jugar en una posición más especializad
 
 ## Posiciones en el campo
 
-Cada JCB puede, según avanza en su desarrollo deportivo, se puede especializar en 4 posiciones (arquetipos) y aprender las destrezas y las habilidades de ese puesto.
+Cada JCB, según avanza en su desarrollo deportivo, se puede especializar en 4 posiciones (arquetipos) y aprender las destrezas y las habilidades de ese puesto.
 
 ### Bloqueador/a
 
@@ -133,9 +132,17 @@ xxx
 
 xxx
 
+|Coste|Daño|Peso|Propiedades|
+|-----|----|----|-----------|
+|50 mp|+2 contundente|0,1 lb.|Guante|
+
 ### Guantelete
 
 xxx
+
+|Coste|Daño|Peso|Propiedades|
+|-----|----|----|-----------|
+|12 mo|1d4 contundente|0,5 lb.|Guante|
 
 ### Guantelete armado
 
@@ -143,7 +150,7 @@ xxx
 
 |Coste|Daño|Peso|Propiedades|
 |-----|----|----|-----------|
-|1 mo|1d4 contundente|1 lb.|Guante|
+|15 mo|1d6 contundente|1 lb.|Guante|
 
 **Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no se la puede desarmar. Puedes sostener objetos, empuñar armas y lanzar hechizos con una mano equipada con un arma de guante, pero sólo puedes atacar con el arma de guante si esa mano está desocupada. Se necesita una acción de Usar objeto para ponerse o quitarse un arma de guante.
 
