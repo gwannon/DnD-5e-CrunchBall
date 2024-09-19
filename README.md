@@ -37,3 +37,9 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 
 * https://srd.nosolorol.com/DD5/personajes/trasfondos.html
 
+### Imágenes
+
+* https://www.deviantart.com/ru-mor/gallery/33703887/sketch
+* https://www.deviantart.com/lanzaestudio/
+* https://www.deviantart.com/lanzaestudio/art/Orc-Fantasy-Football-Iron-Golems-645877134
+

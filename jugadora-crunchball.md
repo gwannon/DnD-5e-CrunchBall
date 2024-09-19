@@ -1,6 +1,6 @@
 {{frontCover}}
 
-{{logo ![](/assets/naturalCritLogoRed.svg)}}
+{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/87495cf3b1a1d922450fe0c7a891500e97c67aa6/dnd.svg)}}
 
 # Esto es CrunchBall
 ## Guía deportiva del CrunchBall para D&D 5e
@@ -9,10 +9,10 @@ ___
 {{banner por Gwannon}}
 
 {{footnote
-Si puedes aguantar de pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 }}
 
-![background image](https://i.ebayimg.com/images/g/h4MAAOSwzm1iub5z/s-l1600.webp){position:absolute,top:0,left:0,width:100%}
+![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/jcb.webp){position:absolute,top:0,left:0,width:100%}
 
 \page
 
@@ -95,7 +95,7 @@ xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 
 Los partidos de CrunchBall son tan duros y brutales que solo los más preparados pueden dedicarse profesionalmente a jugar en las diferentes ligas de este apasionante deporte.
 
-Si puedes aguantar de pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 
 ## Rasgos de clase
 
@@ -119,7 +119,7 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 
 \column
 
-![Corredor](https://i.ebayimg.com/images/g/h4MAAOSwzm1iub5z/s-l1600.webp) {width:325px,mix-blend-mode:multiply}
+![Corredor](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/jcb.webp) {width:325px,mix-blend-mode:multiply}
 
 * Cualquier arma sencilla.
 * Armadura simple.
@@ -139,9 +139,9 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 |8|3|+10/+5/0|Mejora de característica|
 |9|4|+10/+5/0|Cazamagos|
 |10|4|+10/+5/0|Rasgo de posición en el campo|
-|11|4|+10/+5/0|Leer a tu oponente II|
+|11|4|+10/+5/0|Estilo de juego adicional|
 |12|4|+15/+10/+5|Mejora de característica|
-|13|5|+15/+10/+5|xxx|
+|13|5|+15/+10/+5|Leer a tu oponente II|
 |14|5|+15/+10/+5|Mejora de característica|
 |15|5|+15/+10/+5|Rasgo de posición en el campo|
 |16|5|+15/+10/+5|Mejora de característica|
@@ -175,6 +175,10 @@ Puedes usar Destreza en lugar de Fuerza en los ataques y las tiradas de daño qu
 
 Cuando eliges este estilo de juego, consigues competencia con armaduras medias y pesadas.
 
+#### Preciso
+
+Consigues un bonificador de +2 a las tiradas de ataque que hagas con armas arrojadizas.
+
 #### Tramposo
 
 Consigues competencia en dos habilidades, Sigilo y Juegos de manos.
@@ -203,6 +207,10 @@ La magia puede ser la diferencia entre ganar y perder un partido es por ello que
 
 A estos niveles de profesionalidad no es raro que haya magas, hechiceros y seres con habilidades mágicas en los equipos y estos conocimientos mágicos son muy útiles para detectar la magia y defenderse de ella.
 
+### Estilo de juego adicional
+
+En el nivel 11, puedes elegir una segunda opción para el rasgo de clase Estilo de juego.
+
 ### Leer a tu oponente II
 
 xxx
@@ -227,17 +235,15 @@ Su misión es defender al resto del equipo mientras hacen su jugada o romper las
 
 **A nivel 18** xxx
 
-### Lanzador
-
-Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el eje principal de la mayoría de las jugadas y hacer lanzamientos precisos que ponen al público en pie mientras vuela la pelota para caer en menos de un receptor.
-
-**A nivel 3** has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas.
-
 {{pageNumber 8}}
 
 \page
 
-Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.   
+### Lanzador
+
+Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el eje principal de la mayoría de las jugadas y hacer lanzamientos precisos que ponen al público en pie mientras vuela la pelota para caer en menos de un receptor.
+
+**A nivel 3** has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas. Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.   
 
 **Cuando alcanzas el nivel 7** xxx
 
@@ -349,13 +355,13 @@ Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los 
 
 Estos guanteletes son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
 
-|Coste|Daño|Peso|Propiedades|
-|-----|----|----|-----------|
-|8 mo¹|1d4 contundente|0,5 lb|Guante¹|
-
 {{pageNumber 9}}
 
 \page
+
+|Coste|Daño|Peso|Propiedades|
+|-----|----|----|-----------|
+|8 mo¹|1d4 contundente|0,5 lb|Guante¹|
 
 ### Guantelete armado
 
@@ -376,7 +382,7 @@ _**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no
 
 # Esto es CrunchBall
 
-Si puedes aguantar de pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 :
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 :
@@ -387,7 +393,7 @@ ___
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![background image](https://i.ebayimg.com/images/g/h4MAAOSwzm1iub5z/s-l1600.webp){position:absolute,top:0,left:0,width:100%}
+![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/jcb.webp){position:absolute,top:0,left:0,width:100%}
 
 {{logo
 ![](/assets/naturalCritLogoWhite.svg)
