@@ -9,7 +9,7 @@ ___
 {{banner por Gwannon}}
 
 {{footnote
-Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+Si puedes aguantar de pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 }}
 
 ![background image](https://i.ebayimg.com/images/g/h4MAAOSwzm1iub5z/s-l1600.webp){position:absolute,top:0,left:0,width:100%}
@@ -95,7 +95,7 @@ xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 
 Los partidos de CrunchBall son tan duros y brutales que solo los más preparados pueden dedicarse profesionalmente a jugar en las diferentes ligas de este apasionante deporte.
 
-Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+Si puedes aguantar de pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 
 ## Rasgos de clase
 
@@ -376,7 +376,7 @@ _**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no
 
 # Esto es CrunchBall
 
-Si puedes aguantar de pies un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+Si puedes aguantar de pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 :
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 :
