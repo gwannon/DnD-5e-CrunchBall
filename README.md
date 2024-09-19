@@ -19,9 +19,10 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 
 ### Ideas de habilidades
 
-* Mejorar la distancia del salto horizontal.
-* Mejorar la carga para los bloqueadores/corredores
-* Mejorar los derribos
+* Bloqueador -> Mejorar los derribos
+* Corredor -> Tirarse en plancha, mejorar la distancia del salto horizontal.
+* Corredor -> Mejorar la carga para los bloqueadores/corredores
+* Corredor -> Robar balón
 
 ### Clases de las que aprovechar algo
 

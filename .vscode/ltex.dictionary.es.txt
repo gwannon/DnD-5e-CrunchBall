@@ -2,3 +2,5 @@ nudilleras
 bonificador
 CrunchBall
 Bonificador
+1d8
+placando
