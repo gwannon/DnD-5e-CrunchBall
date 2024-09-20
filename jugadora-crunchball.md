@@ -18,7 +18,13 @@ Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmor
 
 # Historia del CrunchBall
 
-xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El CrunchBall se pierde en los albores de la historia y los expertos no tiene muy claro su origen. xxx 
+
+xxx
+
+## Religión y CrunchBall
+
+xxx
 
 {{pageNumber 1}}
 
@@ -28,7 +34,13 @@ xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-El uso de magia dentro del campo está totalmente prohibido. Dentro del campo no puede haber ningún tipo de elemento mágico.
+## ¿Quién puede participar?
+
+xxx
+
+## Uso de magia y armas
+
+El uso de magia dentro del campo está Muy restringido, según dicen los expertos porque la magia corrompe la pureza de este deporte. xxx
 
 {{pageNumber 2}}
 
@@ -36,7 +48,9 @@ El uso de magia dentro del campo está totalmente prohibido. Dentro del campo no
 
 # Salón de la fama
 
-xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A lo largo de la historia ha habido grandes jugadores y jugadoras de CrunChBall y la mayoría han muerto demasiado jóvenes y casi siempre de forma brutal y violenta. 
+
+xxx
 
 ## Equipos
 
