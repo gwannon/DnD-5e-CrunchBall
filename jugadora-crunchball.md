@@ -38,6 +38,16 @@ El uso de magia dentro del campo está totalmente prohibido. Dentro del campo no
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+## Equipos
+
+### Los guardianes de Puerta de Baldur
+
+Tambien conocidos como los porteros (chiste con que son los guardianes de la puerta), xxx
+
+## Jugadoras y jugadores de leyenda
+
+xxx
+
 {{pageNumber 3}}
 
 \page
@@ -112,7 +122,7 @@ Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los 
 
 Estos guanteletes son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
 
-{{pageNumber 9}}
+{{pageNumber 5}}
 
 \page
 
@@ -135,7 +145,7 @@ _**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-{{pageNumber 5}}
+{{pageNumber 6}}
 
 \page
 
@@ -165,7 +175,7 @@ Podría parecer que pudiera haber equipos que jugarán menos partidos más escog
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-{{pageNumber 6}}
+{{pageNumber 7}}
 \page
 
 # Jugador/a de CrunchBall (JCB)
@@ -228,7 +238,7 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 |20|6|+20/+15/+10|xxx|
 }}
 
-{{pageNumber 7}}
+{{pageNumber 8}}
 
 \page
 
@@ -300,9 +310,13 @@ Cada JCB, según avanza en su desarrollo deportivo, se puede especializar en 4 p
 
 Su misión es defender al resto del equipo mientras hacen su jugada o romper las defensas del equipo contrario cuando hay que robarles el balón.
 
-**A nivel 3** aprendes a proteger a otros jugadores/as de forma eficiente. Si lo decides al principio de tu turno, todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja hasta su siguiente turno. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti. 
+**Protección:** A nivel 3 aprendes a proteger a otros jugadores/as de forma eficiente. Si lo decides al principio de tu turno, todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja hasta su siguiente turno. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti. 
 
-**Cuando alcanzas el nivel 7** eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
+**Trabajo en equipo** Cuando alcanzas el nivel 7 eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
+
+{{pageNumber 9}}
+
+\page
 
 **Caer en plancha:** A nivel Al alcanzar el nivel 10 aprendes a usar tu corpulencia como arma para caer en plancha sobre tus contrincantes y derribarlos. 
 
@@ -312,13 +326,9 @@ Solo puedes caerle encima a criaturas hasta una categoría de tamaño mayor que 
 
 **xxx:** Cuando alcanzas el nivel 15 xxx 
 
-**A nivel 18** xxx
+**xxx:** A nivel 18 xxx
 
-{{pageNumber 8}}
-
-\page
-
-### Lanzador
+### Lanzador/a
 
 Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el eje principal de la mayoría de las jugadas y hacer lanzamientos precisos que ponen al público en pie mientras vuela la pelota para caer en menos de un receptor.
 
@@ -332,7 +342,7 @@ Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el e
 
 **xxx:** Cuando alcanzas el nivel 18 xxx
 
-### Receptor
+### Receptor/a
 
 Siendo el elemento más pido y diestro del equipo pueden colarse entre las líneas del equipo del enemigo y esquivar a sus atacantes hasta recibir un pase un marcar un tanto.
 
@@ -348,7 +358,7 @@ En caso de tener que hacer tiradas el bonificador de Destreza se suma a tu Fue. 
 
 **xxx:** A nivel 18 xxx
 
-### Corredor
+### Corredor/a
 
 Unas de las figuras más queridas del CrunchBall por el público son los valientes corredores. Estos temerarios recogen el balón y corren hasta la línea de meta esquivando o placando enemigos.
 
@@ -356,7 +366,7 @@ Unas de las figuras más queridas del CrunchBall por el público son los valient
 
 **Cazamagos:**  La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 7, recibes la competencia en la habilidad Conocimiento arcano de forma que la conoces y puedes identificar las criaturas con conocimientos mágicos. Como corredor, en la defensa, una de tus tareas es derribar a los lanzadoras, sean de conjuros o de balones, por ello, además, xxx
 
-**xxx:** A nivel 10 xxx
+**Robar balón:** A nivel 10 tu técnica de robar balones de las manos a tus oponentes es tan buena que puedes usarla también para desarmar a tus oponentes con solo tus manos. xxx
 
 **xxx:** Al alcanzar el nivel 15 xxx 
 
@@ -391,6 +401,10 @@ xxx
 |7||
 |8||
 
+{{pageNumber 10}}
+
+\page
+
 |1d6|Ideal|
 |---|-----|
 |1||
@@ -418,7 +432,7 @@ xxx
 |5||
 |6||
 
-{{pageNumber 10}}
+{{pageNumber 11}}
 
 \page
 
