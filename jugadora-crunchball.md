@@ -133,11 +133,11 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 |2|2|+5/0/0|Esprint adicional|
 |3|2|+5/0/0|Posición en el campo|
 |4|2|+5/0/0|Mejora de característica|
-|5|3|+5/0/0|Leer a tu oponente I|
+|5|3|+5/0/0|Derribo|
 |6|3|+5/0/0|Mejora de característica|
 |7|3|+10/+5/0|Rasgo de posición en el campo|
 |8|3|+10/+5/0|Mejora de característica|
-|9|4|+10/+5/0|Cazamagos|
+|9|4|+10/+5/0|Leer a tu oponente I|
 |10|4|+10/+5/0|Rasgo de posición en el campo|
 |11|4|+10/+5/0|Estilo de juego adicional|
 |12|4|+15/+10/+5|Mejora de característica|
@@ -195,17 +195,15 @@ Cuando alcanzas el nivel 4, y de nuevo en los niveles 6, 8, 12, 14, 16 y 19, pue
 
 En el nivel 3 comienzas a entrenar para jugar en una posición más especializada a tu elección, como lanzador o corredor. El arquetipo te otorga rasgos en el nivel 3 y de nuevo en los niveles 7, 10, 15 y 18.
 
+### Derribo
+
+A partir del nivel 5,  cuando realizas un ataque CaC sin usar armas o con nudilleras o guanteletes puedes elegir derribar al oponente como parte del ataque. El oponente deberá pasar una tirada de salvación de Fuerza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar el derribo. Solo puedes derribar a oponentes hasta una categoría de tamaño mayor que tú.
+
 ### Leer a tu oponente I
 
 Las grandes jugadoras y jugadores de CrunchBall aprenden a leer a sus oponentes. Leen su lenguaje corporal, sus tics, sus expresiones y sus tonos de voz y aprenden a interpretarlos. En mitad de combate pueden gastar una acción xxx y tirar Perspicacia (CA xxx) para xxx
 
 En caso de tener competencia con Perspicacia, reciben esa competencia en vez de Leer a tu oponente.
-
-### Cazamagos
-
-La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 5, recibes la competencia en la habilidad Conocimiento arcano.
-
-A estos niveles de profesionalidad no es raro que haya magas, hechiceros y seres con habilidades mágicas en los equipos y estos conocimientos mágicos son muy útiles para detectar la magia y defenderse de ella.
 
 ### Estilo de juego adicional
 
@@ -229,9 +227,13 @@ Su misión es defender al resto del equipo mientras hacen su jugada o romper las
 
 **Cuando alcanzas el nivel 7** eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
 
-**A nivel 10** xxx
+**Caer en plancha:** A nivel Al alcanzar el nivel 10 aprendes a usar tu corpulencia como arma para caer en plancha sobre tus contrincantes y derribarlos. 
 
-**Al alcanzar el nivel 15** xxx 
+Si te mueves mínimo 10 pies puedes elegir un enemigo y un enemigo adyacente a él y caer sobre ellos. Los seres que estén en esas casillas deben hacer una salvación de Destreza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar que les caigas encima o recibir 3d8 + bonificador de Fue de daño. Si reciben daño acaban derribados en el suelo. Además el oponente principal siempre es empujado 5 pies en una dirección a tu elección.
+
+Solo puedes caerle encima a criaturas hasta una categoría de tamaño mayor que la tuya y por desgracia tú también acabas derribado en la casilla donde estaba el enemigo empujado.
+
+**xxx:** Cuando alcanzas el nivel 15 xxx 
 
 **A nivel 18** xxx
 
@@ -243,47 +245,45 @@ Su misión es defender al resto del equipo mientras hacen su jugada o romper las
 
 Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el eje principal de la mayoría de las jugadas y hacer lanzamientos precisos que ponen al público en pie mientras vuela la pelota para caer en menos de un receptor.
 
-**A nivel 3** has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas. Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.   
+**Pase largo:** A nivel 3 has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas. Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.   
 
-**Cuando alcanzas el nivel 7** xxx
+**Evasión:** A nivel 7, tu entrenamiento te permite esquivar la trayectoria de ciertas áreas de efecto, tales como el aliento de un dragón o un conjuro de bola de fuego. Cuando estás sujeto a un efecto que te permite hacer una tirada de salvación de Destreza para obtener la mitad del daño, no obtienes ningún daño en su lugar si la superas, y si la fallas obtienes la mitad.
 
-**Al alcanzar el nivel 10** xxx
+**xxx:** Al alcanzar el nivel 10 xxx
 
-**A nivel 15** xxx 
+**xxx:** A nivel 15 xxx 
 
-**Cuando alcanzas el nivel 18** xxx
+**xxx:** Cuando alcanzas el nivel 18 xxx
 
 ### Receptor
 
 Siendo el elemento más pido y diestro del equipo pueden colarse entre las líneas del equipo del enemigo y esquivar a sus atacantes hasta recibir un pase un marcar un tanto.
 
-**Cuando alcanzas el nivel 3** te conviertes en un gran saltador de forma que pueden sumar tu bonificador de Destreza a tu Fuerza a la hora de calcular la altura de sus saltos de altura.
-
-También pueden sumar tu Destreza a tu Fuerza a la hora de calcular la distancia de tus saltos largos.
+**Saltos asombrosos:** Cuando alcanzas el nivel 3 te conviertes en un gran saltador de forma que pueden sumar tu bonificador de Destreza a tu Fuerza a la hora de calcular la altura de sus saltos de altura. También pueden sumar tu Destreza a tu Fuerza a la hora de calcular la distancia de tus saltos largos.
 
 En caso de tener que hacer tiradas el bonificador de Destreza se suma a tu Fue. Además, eres tan bueno saltando que durante el salto puedes hacer interacciones con objetos que te rodean como si fuera movimiento normal de forma que durante el salto puedes coger o dar un objeto a otra persona o recoger un objeto del suelo.
 
-**En el nivel 7** xxx
+**xxx:** En el nivel 7 xxx
 
-**Al alcanzar el nivel 10** xxx
+**xxx:** Al alcanzar el nivel 10 xxx
 
-**Cuando alcanzas el nivel 15** xxx 
+**xxx:** Cuando alcanzas el nivel 15 xxx 
 
-**A nivel 18** xxx
+**xxx:** A nivel 18 xxx
 
 ### Corredor
 
 Unas de las figuras más queridas del CrunchBall por el público son los valientes corredores. Estos temerarios recogen el balón y corren hasta la línea de meta esquivando o placando enemigos.
 
-**A nivel 3** tu entrenamiento corriendo en todo tipo de entorno hace que en combate no sufras penalizaciones por terreno difícil.
+**Correr en el barro:** A nivel 3 tu entrenamiento corriendo en todo tipo de entorno hace que en combate no sufras penalizaciones por terreno difícil.
 
-**Cuando alcanzas el nivel 7,** xxx
+**Cazamagos:**  La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 7, recibes la competencia en la habilidad Conocimiento arcano de forma que la conoces y puedes identificar las criaturas con conocimientos mágicos. Como corredor, en la defensa, una de tus tareas es derribar a los magos por ello, además, xxx
 
-**A nivel 10** xxx
+**xxx:** A nivel 10 xxx
 
-**Al alcanzar el nivel 15** xxx 
+**xxx:** Al alcanzar el nivel 15 xxx 
 
-**A nivel 18** xxx
+**xxx:** A nivel 18 xxx
 
 ## De las ligas menores (Trasfondo)
 
