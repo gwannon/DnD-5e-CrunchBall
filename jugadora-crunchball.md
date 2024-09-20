@@ -317,7 +317,7 @@ En el nivel 3 comienzas a entrenar para jugar en una posición más especializad
 
 ### Derribo
 
-A partir del nivel 5,  cuando realizas un ataque CaC sin usar armas o con nudilleras o guanteletes puedes elegir derribar al oponente como parte del ataque. El oponente deberá pasar una tirada de salvación de Fuerza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar el derribo. Solo puedes derribar a oponentes hasta una categoría de tamaño mayor que tú.
+A partir del nivel 5, cuando realizas un ataque CaC sin usar armas o con nudilleras o guanteletes, puedes elegir derribar al oponente como parte del ataque. El oponente deberá pasar una tirada de salvación de Fuerza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar el derribo. Solo puedes derribar a oponentes hasta una categoría de tamaño mayor que tú.
 
 ### Leer a tu oponente I
 
