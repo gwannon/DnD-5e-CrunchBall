@@ -12,7 +12,7 @@ ___
 Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 }}
 
-![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/jcb.webp){position:absolute,top:0,left:0,width:100%}
+![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/portada.jpg){position:absolute,top:0,right:0,height:100%}
 
 \page
 
@@ -220,7 +220,7 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 
 \column
 
-![Corredor](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/jcb.webp) {width:325px,mix-blend-mode:multiply}
+![Corredor](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/contraportada.jpg) {width:325px,mix-blend-mode:multiply}
 
 * Cualquier arma sencilla.
 * Armadura simple.
@@ -450,6 +450,15 @@ xxx
 
 \page
 
+# Atribuciones
+
+* [Portada](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420) de [RomCova](https://www.deviantart.com/romcova/)
+* [Contraportada](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370) de [RomCova](https://www.deviantart.com/romcova/)
+
+{{pageNumber 12}}
+
+\page
+
 {{backCover}}
 
 # Esto es CrunchBall
@@ -465,7 +474,7 @@ ___
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/jcb.webp){position:absolute,top:0,left:0,width:100%}
+![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/contraportada.jpg){position:absolute,top:0,left:0,width:100%}
 
 {{logo
 ![](/assets/naturalCritLogoWhite.svg)

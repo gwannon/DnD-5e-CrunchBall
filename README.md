@@ -4,9 +4,10 @@ Desarrollo usando OPEN GAME	LICENSE	Version	1.0a
 
 El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com/)
 
-## Atribuciones
+# Atribuciones
 
-[Balón](https://www.rawpixel.com/image/14731354/png-american-football-ball-american-football-sports-rugby)
+* [Portada](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420) de [RomCova](https://www.deviantart.com/romcova/)
+* [Contraportada](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370) de [RomCova](https://www.deviantart.com/romcova/)
 
 ## Comandos MD especiales
 
@@ -42,3 +43,4 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 * https://www.deviantart.com/lanzaestudio/
 * https://www.deviantart.com/lanzaestudio/art/Orc-Fantasy-Football-Iron-Golems-645877134
 
+https://www.deviantart.com/romcova/art/Enano-Bowl-786530420
