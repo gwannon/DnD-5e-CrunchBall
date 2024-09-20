@@ -54,6 +54,83 @@ xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+## Encuentros
+
+Los encuentros tienen dos tiempos y a lo largo de ellos hay infinidad de jugadas en las que se gana o se pierde, pero que no influyen realmente en el partido. Solo hay dos jugadas magistrales por tiempo que cambian el sentido del encuentro. Estas jugadas deben tomarse combates que acaban al de 10 turnos o si se marca un gol. Pasados los 10 turnos la jugada magistral ha perdido la gracia y vuelve a ser una jugada normal.
+
+Lo primero es decidir quien tiene la posesión del balón y lo segundo en que situación están los equipos. Por ello deben tirar en la tabla de posiciones aleatorias y seguir sus normas de colocación de equipos. xxx
+
+### El campo
+
+El campo tiene unas dimensioanes de 10x20 casillasy está divido en dos partes 
+
+xxx
+
+## Magia durante los partidos
+
+La regla principal de la magia durante los encuentros es que no puede cruzar las líneas exteriores del campo.
+
+Hay dos excepciones a esa regla, si es parte del jugador o jugadora o si está imbuida en el equipamiento de juego y tiene carácter defensivo.
+
+Así pues para empezar, una hechicera enana podría entrar en el campo y lanzar cualquier hechizo de su lista de conjuros con normalidad. Lo que sucedería es que el equipo contrario se lanzaría a por ella nada más gesticular el primer hechizo.
+
+Sin embargo tirar un hechizo en el entretiempo y volver al campo con sus efectos activos se considera ilegal aunque te lo hayas lanzado tú mismo.
+
+Por otro lado, un jugador podría jugar todo un partido con una cota de llamas +1 sin problemas y unos brazaletes de protección. Pero serían ilegales si tuvieran algún poder no defensivo como por ejemplo un casco que da luz.
+
+A pesar de que es ilegal, un jugador/a pueda meter ilegalmente algún objeto mágico oculta entre su equipamiento y usarlo furtivamente. Con una tirada de Juegos de manos (CA Percepción pasiva del árbitro) puedes escamotear un único objeto mágico dentro del campo. 
+
+Necesitará otra tirada de Juegos de manos (CA Percepción pasiva del árbitro) y una acción completa para usarlo. De esa forma se podría meter una poción de curación en el campo y tomártela o usarla en una criatura.
+
+## Armas en el campo de juego
+
+Cualquier tipo de arma está prohibida en el campo, a excepción de las nudilleras protectoras, el guantelete y el guantelete armado.
+
+Eso no quiere decir que un jugador/a pueda meter ilegalmente alguna pequeña arma oculta entre su equipamiento para hacer ataques furtivos. Con una tirada de Juegos de manos (CA Percepción pasiva del árbitro) puedes escamotear un arma pequeña dentro del campo.
+
+La pelota de CrunBall también puede ser usada como arma debido a su peso y la contundencia que le otorga su interior de madera.
+
+### Bola de crunchball
+
+xxx
+
+|Coste|Daño|Peso|Propiedades|
+|-----|----|----|-----------|
+|2 mp¹|1d4 contundente|0,5 lb||
+
+_¹ Precio por un balón profesional, se pueden comprar balones de mucha menos calidad por unas 5 mp._
+
+### Nudilleras protectoras
+
+Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los nudillos. Concentran la fuerza de un golpe en un punto pequeño haciendo que los puñetazos sean más fuertes y dañinos. Las nudilleras protectoras de CrunchBall son más grandes que las normales, ya que el hecho de poder ocultarlas no es importante y el espacio extra se suele usar para poner nombres de patrocinadores. 
+
+|Coste|Daño|Peso|Propiedades|
+|-----|----|----|-----------|
+|50 mp|+2 contundente|0,1 lb|Guante¹|
+
+### Guantelete
+
+Estos guanteletes son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
+
+{{pageNumber 9}}
+
+\page
+
+|Coste|Daño|Peso|Propiedades|
+|-----|----|----|-----------|
+|8 mo¹|1d4 contundente|0,5 lb|Guante¹|
+
+### Guantelete armado
+
+Este guantelete ha sido modificado con placas contundentes de metal, cuchillas o pinchos para aumentar su capacidad de hacer daño. Las reglas del juego no permiten que esos elementos estén afilados (deben ser romos) por lo que siempre hacen daño contundente. La elección de pincho o cuchillas es una cuestión más estética que otra cosa. 
+
+|Coste|Daño|Peso|Propiedades|
+|-----|----|----|-----------|
+|15 mo¹|1d6 contundente|1 lb|Guante²|
+
+_¹ Precio es por unidad, ya que hay jugadores/as que solo usan uno y tienen la otra mano sin guantelete._
+_**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no se la puede desarmar. Puedes sostener objetos, empuñar armas y lanzar hechizos con una mano equipada con un arma de guante, pero solo puedes atacar con el arma de guante si esa mano está desocupada. Se necesita una acción de Usar objeto para ponerse o quitarse un arma de guante._
+
 ## Recaudación del partido
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -108,7 +185,7 @@ Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmor
 ### Competencias
 
 * **Armadura:** Sencillas
-* **Armas:** Armas sencillas, nudilleras, guanteletes y guanteletes armados.
+* **Armas:** Armas sencillas, balón de crunchball, nudilleras protectoras, guanteletes y guanteletes armados.
 * **Herramientas:** Elige un tipo de herramienta de sastre o un instrumento musical.
 * **Tiradas de salvación:** Fuerza, Destreza
 * **Habilidades:** Elige dos entre Acrobacias, Atletismo, Intimidar, Percepción y Perspicacia
@@ -259,7 +336,7 @@ Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el e
 
 Siendo el elemento más pido y diestro del equipo pueden colarse entre las líneas del equipo del enemigo y esquivar a sus atacantes hasta recibir un pase un marcar un tanto.
 
-**Saltos asombrosos:** Cuando alcanzas el nivel 3 te conviertes en un gran saltador de forma que pueden sumar tu bonificador de Destreza a tu Fuerza a la hora de calcular la altura de sus saltos de altura. También pueden sumar tu Destreza a tu Fuerza a la hora de calcular la distancia de tus saltos largos.
+**Saltos asombrosos:** Cuando alcanzas el nivel 3 te conviertes en un gran saltarín/a de forma que pueden sumar tu bonificador de Destreza a tu Fuerza a la hora de calcular la altura de sus saltos de altura. También pueden sumar tu Destreza a tu Fuerza a la hora de calcular la distancia de tus saltos largos.
 
 En caso de tener que hacer tiradas el bonificador de Destreza se suma a tu Fue. Además, eres tan bueno saltando que durante el salto puedes hacer interacciones con objetos que te rodean como si fuera movimiento normal de forma que durante el salto puedes coger o dar un objeto a otra persona o recoger un objeto del suelo.
 
@@ -277,7 +354,7 @@ Unas de las figuras más queridas del CrunchBall por el público son los valient
 
 **Correr en el barro:** A nivel 3 tu entrenamiento corriendo en todo tipo de entorno hace que en combate no sufras penalizaciones por terreno difícil.
 
-**Cazamagos:**  La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 7, recibes la competencia en la habilidad Conocimiento arcano de forma que la conoces y puedes identificar las criaturas con conocimientos mágicos. Como corredor, en la defensa, una de tus tareas es derribar a los magos por ello, además, xxx
+**Cazamagos:**  La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 7, recibes la competencia en la habilidad Conocimiento arcano de forma que la conoces y puedes identificar las criaturas con conocimientos mágicos. Como corredor, en la defensa, una de tus tareas es derribar a los lanzadoras, sean de conjuros o de balones, por ello, además, xxx
 
 **xxx:** A nivel 10 xxx
 
@@ -340,39 +417,6 @@ xxx
 |4||
 |5||
 |6||
-
-## Armas de JCB
-
-### Nudilleras
-
-Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los nudillos. Concentran la fuerza de un golpe en un punto pequeño haciendo que los puñetazos sean más fuertes y dañinos. Las nudilleras de CrunchBall son más grandes que las normales, ya que el hecho de poder ocultarlas no es importante y el espacio extra se suele usar para poner nombres de patrocinadores. 
-
-|Coste|Daño|Peso|Propiedades|
-|-----|----|----|-----------|
-|50 mp|+2 contundente|0,1 lb|Guante¹|
-
-### Guantelete
-
-Estos guanteletes son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
-
-{{pageNumber 9}}
-
-\page
-
-|Coste|Daño|Peso|Propiedades|
-|-----|----|----|-----------|
-|8 mo¹|1d4 contundente|0,5 lb|Guante¹|
-
-### Guantelete armado
-
-Este guantelete ha sido modificado con placas contundentes de metal, cuchillas o pinchos para aumentar su capacidad de hacer daño. Las reglas del juego no permiten que esos elementos estén afilados (deben ser romos) por lo que siempre hacen daño contundente. La elección de pincho o cuchillas es una cuestión más estética que otra cosa. 
-
-|Coste|Daño|Peso|Propiedades|
-|-----|----|----|-----------|
-|15 mo¹|1d6 contundente|1 lb|Guante²|
-
-_¹ Precio es por unidad, ya que hay jugadores/as que solo usan uno y tienen la otra mano sin guantelete._
-_**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no se la puede desarmar. Puedes sostener objetos, empuñar armas y lanzar hechizos con una mano equipada con un arma de guante, pero solo puedes atacar con el arma de guante si esa mano está desocupada. Se necesita una acción de Usar objeto para ponerse o quitarse un arma de guante._
 
 {{pageNumber 10}}
 
