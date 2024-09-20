@@ -18,7 +18,25 @@ Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmor
 
 # Historia del CrunchBall
 
-El CrunchBall se pierde en los albores de la historia y los expertos no tiene muy claro su origen. xxx 
+El CrunchBall se pierde en los albores de la historia y los expertos no tiene muy claro su origen. En lo que toda la gente que ha estudiado su historia coinciden es que el alcohol y la violencia descerebrada fueron elementos fundacionales de este deporte.
+
+Hay dos corrientes de pensamiento principales sobre su origen. 
+
+## Corriente divina
+
+Puede cambiar, el lugar, la especie y la época, pero la teoría de estas corrientes en resumen dice que a una panda de borrachos se les apareció una de sus divinidades y les entregó el CrunchBall.
+
+En todas las tradiciones, el dios o la diosa está relacionado con el engaño, las trampas, las bromas y las fiestas. Se considera que el deporte es una broma malvada de la divinidad para llevar a la sociedad a la decadencia y se ríe a carcajada en su plano divino viendo a sus fieles peleándose por un cacho de madera y cuero.
+
+## Corriente antropocéntrica
+
+En este caso, en un grupo de borrachos, alguien lanzó algo a alguien, normalmente fruta parecida a un balón de CrunchBall, y terminaron montando una pelea. La pelea atrajo a más gente y el tabernero local vendió un montón de cerveza.
+
+Así que el tabernero empezó a organizar estás peleas periódicas y cada vez tenían más reglas hasta conformar el CrunchBall primigenio.
+
+## El CrunchBall moderno
+
+Se considera que el CrunchBall tal y como lo conocemos apareció hace 150 años.
 
 xxx
 
@@ -217,6 +235,7 @@ Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmor
 ### Equipo
 
 Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo:
+:
 
 \column
 
@@ -451,6 +470,8 @@ xxx
 \page
 
 # Atribuciones
+
+## Imágenes
 
 * [Portada](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420) de [RomCova](https://www.deviantart.com/romcova/)
 * [Contraportada](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370) de [RomCova](https://www.deviantart.com/romcova/)
