@@ -49,3 +49,4 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 * https://www.deviantart.com/arvalis/art/Blood-Bowl-Queen-Nefaria-323176020
 * https://www.deviantart.com/arvalis/art/Blood-Bowl-High-Stakes-Foul-323291423
 * https://www.deviantart.com/taonavi/art/BloodBowl-fanart-2017-678503708
+* https://www.deviantart.com/petrovi4/art/Blood-Bowl-960263538
