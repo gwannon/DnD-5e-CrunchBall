@@ -1,3 +1,4 @@
+
 {{frontCover}}
 
 {{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/87495cf3b1a1d922450fe0c7a891500e97c67aa6/dnd.svg)}}
@@ -130,11 +131,11 @@ Cualquier tipo de arma está prohibida en el campo, a excepción de las nudiller
 
 Eso no quiere decir que un jugador/a pueda meter ilegalmente alguna pequeña arma oculta entre su equipamiento para hacer ataques furtivos. Con una tirada de Juegos de manos (CA Percepción pasiva del árbitro) puedes escamotear un arma pequeña dentro del campo.
 
-La pelota de CrunBall también puede ser usada como arma debido a su peso y la contundencia que le otorga su interior de madera.
+La pelota de CrunchBall también puede ser usada como arma debido a su peso y la contundencia que le otorga su interior de madera.
 
-### Bola de crunchball
+### Bola de CrunchBall
 
-xxx
+Esta pelota ovalada tiene un interior de madera ligera y está recubierta de tela y cuero cosido para mejorar su agarre. Puede ser usado como arma debido a su núcleo de madera que la hace tan contundente como un garrote de madera. Hay versiones de combate con pinchos para aumentar su daño al lanzarla o golpear con ella.
 
 |Coste|Daño|Peso|Propiedades|
 |-----|----|----|-----------|
@@ -519,6 +520,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 :
 15.COPYRIGHT NOTICE Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
+:
 END OF LICENSE
 
 {{pageNumber 14}}
@@ -547,7 +549,7 @@ En este suplemento encontraras:
 ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/contraportada.jpg){position:absolute,top:0,left:0,width:100%}
 
 {{logo
-![](/assets/naturalCritLogoWhite.svg)
+![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/87495cf3b1a1d922450fe0c7a891500e97c67aa6/dnd.svg)
 
 
 }}
