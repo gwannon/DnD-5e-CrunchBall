@@ -574,6 +574,4 @@ En este suplemento encontraras:
 
 {{logo
 ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/87495cf3b1a1d922450fe0c7a891500e97c67aa6/dnd.svg)
-
-
 }}
