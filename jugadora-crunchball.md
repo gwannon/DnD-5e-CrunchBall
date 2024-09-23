@@ -13,7 +13,7 @@ ___
 Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
 }}
 
-![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/portada.jpg){position:absolute,top:0,right:0,height:100%}
+![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/portada.jpg){position:absolute,top:0,right:0,height:100%}
 
 \page
 
@@ -265,7 +265,7 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 
 \column
 
-![Corredor](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/contraportada.jpg) {width:325px,mix-blend-mode:multiply}
+![Corredor](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/contraportada.jpg) {width:325px,mix-blend-mode:multiply}
 
 * Cualquier arma sencilla.
 * Armadura simple.
@@ -570,7 +570,7 @@ En este suplemento encontraras:
 * Una nueva clase de personaje, jugador/a de CrunchBall.
 * Consejos e ideas para integrar el CrunchBall en tus aventuras.
 
-![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/contraportada.jpg){position:absolute,top:0,left:0,width:100%}
+![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/contraportada.jpg){position:absolute,top:0,left:0,width:100%}
 
 {{logo
 ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/87495cf3b1a1d922450fe0c7a891500e97c67aa6/dnd.svg)
