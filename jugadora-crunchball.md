@@ -73,9 +73,9 @@ xxx
 
 ## Equipos
 
-### Los guardianes de Puerta de Baldur
+### Los guardianes
 
-Tambien conocidos como los porteros (chiste con que son los guardianes de la puerta), xxx
+También conocidos como los porteros (chiste con que son los guardianes de la puerta), xxx
 
 ## Jugadoras y jugadores de leyenda
 
@@ -95,9 +95,17 @@ xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 
 # Reglas para hacer partidos
 
-xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Las reglas para hacer partidos se dividen en 3 partes, antes del partido, durante el partido y despues del partido. Mientras que en el antes y el después del partido pueden participar toda tu mesa, durante el partido solo participarán aquellas personasj que tengan personajes que puedan participar en un partido. 
 
-## Encuentros
+## Antes del encuentro
+
+xxx
+
+#### Entrenamientos
+
+xxx
+
+## Durante los Encuentros
 
 Los encuentros tienen dos tiempos y a lo largo de ellos hay infinidad de jugadas en las que se gana o se pierde, pero que no influyen realmente en el partido. Solo hay dos jugadas magistrales por tiempo que cambian el sentido del encuentro. Estas jugadas deben tomarse combates que acaban al de 10 turnos o si se marca un gol. Pasados los 10 turnos la jugada magistral ha perdido la gracia y vuelve a ser una jugada normal.
 
@@ -105,11 +113,11 @@ Lo primero es decidir quien tiene la posesión del balón y lo segundo en que si
 
 ### El campo
 
-El campo tiene unas dimensioanes de 10x20 casillasy está divido en dos partes 
+El campo tiene unas dimensiones de 10x20 casillas y está divido en dos partes para cada equipo de 10x10.
 
 xxx
 
-## Magia durante los partidos
+### Magia durante los partidos
 
 La regla principal de la magia durante los encuentros es que no puede cruzar las líneas exteriores del campo.
 
@@ -125,7 +133,7 @@ A pesar de que es ilegal, un jugador/a pueda meter ilegalmente algún objeto má
 
 Necesitará otra tirada de Juegos de manos (CA Percepción pasiva del árbitro) y una acción completa para usarlo. De esa forma se podría meter una poción de curación en el campo y tomártela o usarla en una criatura.
 
-## Armas en el campo de juego
+### Armas en el campo de juego
 
 Cualquier tipo de arma está prohibida en el campo, a excepción de las nudilleras protectoras, el guantelete y el guantelete armado.
 
@@ -133,7 +141,7 @@ Eso no quiere decir que un jugador/a pueda meter ilegalmente alguna pequeña arm
 
 La pelota de CrunchBall también puede ser usada como arma debido a su peso y la contundencia que le otorga su interior de madera.
 
-### Bola de CrunchBall
+#### Bola de CrunchBall
 
 Esta pelota ovalada tiene un interior de madera ligera y está recubierta de tela y cuero cosido para mejorar su agarre. Puede ser usado como arma debido a su núcleo de madera que la hace tan contundente como un garrote de madera. Hay versiones de combate con pinchos para aumentar su daño al lanzarla o golpear con ella.
 
@@ -143,7 +151,7 @@ Esta pelota ovalada tiene un interior de madera ligera y está recubierta de tel
 
 _¹ Precio por un balón profesional, se pueden comprar balones de mucha menos calidad por unas 5 mp._
 
-### Nudilleras protectoras
+#### Nudilleras protectoras
 
 Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los nudillos. Concentran la fuerza de un golpe en un punto pequeño haciendo que los puñetazos sean más fuertes y dañinos. Las nudilleras protectoras de CrunchBall son más grandes que las normales, ya que el hecho de poder ocultarlas no es importante y el espacio extra se suele usar para poner nombres de patrocinadores. 
 
@@ -151,19 +159,19 @@ Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los 
 |-----|----|----|-----------|
 |50 mp|+2 contundente|0,1 lb|Guante¹|
 
-### Guantelete
-
-Estos guanteletes son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
-
 {{pageNumber 5}}
 
 \page
+
+#### Guantelete
+
+Estos guanteletes son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
 
 |Coste|Daño|Peso|Propiedades|
 |-----|----|----|-----------|
 |8 mo¹|1d4 contundente|0,5 lb|Guante¹|
 
-### Guantelete armado
+#### Guantelete armado
 
 Este guantelete ha sido modificado con placas contundentes de metal, cuchillas o pinchos para aumentar su capacidad de hacer daño. Las reglas del juego no permiten que esos elementos estén afilados (deben ser romos) por lo que siempre hacen daño contundente. La elección de pincho o cuchillas es una cuestión más estética que otra cosa. 
 
@@ -174,9 +182,26 @@ Este guantelete ha sido modificado con placas contundentes de metal, cuchillas o
 _¹ Precio es por unidad, ya que hay jugadores/as que solo usan uno y tienen la otra mano sin guantelete._
 _**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no se la puede desarmar. Puedes sostener objetos, empuñar armas y lanzar hechizos con una mano equipada con un arma de guante, pero solo puedes atacar con el arma de guante si esa mano está desocupada. Se necesita una acción de Usar objeto para ponerse o quitarse un arma de guante._
 
-## Recaudación del partido
+## Despues del encuentro
 
-xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En este punto veremos que pasa despues del partido que engloba dos partes importantes, la recaudación y el reparto de puntos de experiencia.
+
+### Recaudación del partido
+
+xxx
+
+### Experiencia
+
+La experiencia se puede hacer de la forma tradicional, calculando la experiencia que da el partido como si fuera un combate más o atribuyendo un valor de experiencia al partido. El primero es más adecuado cuando tu mesa se mete en un único partido como parte de una aventura. El segundo está pensado más para aventuras en que tu mesa llevas jugadores/as de CrunchBall y el resto del equipo técnico como parte de la aventura.
+
+#### Método tradicional de experiencia
+
+Calcula el VD de los contrincantes como si fuera un encuentro normal. Si ganan se llevan esa experiencia para repartirla entre los PJ de tu mesa, si empatan solo se llevan la mitad y si pierden no se llevan nada. 
+
+#### Metodo por atribución de valor al partido
+
+xxx
+
 
 {{pageNumber 6}}
 
@@ -472,17 +497,6 @@ xxx
 
 # Aviso legal
 
-## Atribución de imágenes
-
-* [Portada](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420) de [RomCova](https://www.deviantart.com/romcova/)
-* [Contraportada](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370) de [RomCova](https://www.deviantart.com/romcova/)
-
-## Maquetación
-
-Maquetado con [Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com/)
-
-
-
 ## OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
 :
@@ -501,13 +515,13 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 7.Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
 :
 8.Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
+:
+9.Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
 
 {{pageNumber 13}}
 
 \page
 
-9.Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
-:
 10.Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
 :
 11.Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
@@ -522,6 +536,16 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 System Reference Document Copyright 2000-2003, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, Rich Baker, Andy Collins, David Noonan, Rich Redman, Bruce R. Cordell, John D. Rateliff, Thomas Reid, James Wyatt, based on original material by E. Gary Gygax and Dave Arneson.
 :
 END OF LICENSE
+
+## Atribución de imágenes
+
+* [Portada](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420) de [RomCova](https://www.deviantart.com/romcova/)
+* [Contraportada](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370) de [RomCova](https://www.deviantart.com/romcova/)
+
+## Maquetación
+
+Maquetado con [Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com/)
+
 
 {{pageNumber 14}}
 

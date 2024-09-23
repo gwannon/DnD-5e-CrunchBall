@@ -1,0 +1,1 @@
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QLas reglas para hacer partidos se dividen en 3 partes, antes del partido, durante el partido y despues del partido.\\E$"}
