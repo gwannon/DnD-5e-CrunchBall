@@ -51,7 +51,7 @@ xxx
 
 # Reglamento del CrunchBall
 
-xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Como dice la gente experta en este increíble deporte, "El CrunchBall es un deporte de elfos practicado por enanos". xxx  
 
 ## ¿Quién puede participar?
 
@@ -100,8 +100,15 @@ Las reglas para hacer partidos se dividen en 3 partes, antes del partido, durant
 ## Antes del encuentro
 
 xxx
+:
+![Entrenador](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/entrenador.jpg) {width:325px,mix-blend-mode:multiply}
+
 
 #### Entrenamientos
+
+xxx
+
+#### Contratar newbies
 
 xxx
 
@@ -141,6 +148,10 @@ Eso no quiere decir que un jugador/a pueda meter ilegalmente alguna pequeña arm
 
 La pelota de CrunchBall también puede ser usada como arma debido a su peso y la contundencia que le otorga su interior de madera.
 
+{{pageNumber 5}}
+
+\page
+
 #### Bola de CrunchBall
 
 Esta pelota ovalada tiene un interior de madera ligera y está recubierta de tela y cuero cosido para mejorar su agarre. Puede ser usado como arma debido a su núcleo de madera que la hace tan contundente como un garrote de madera. Hay versiones de combate con pinchos para aumentar su daño al lanzarla o golpear con ella.
@@ -159,9 +170,6 @@ Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los 
 |-----|----|----|-----------|
 |50 mp|+2 contundente|0,1 lb|Guante¹|
 
-{{pageNumber 5}}
-
-\page
 
 #### Guantelete
 
@@ -180,11 +188,16 @@ Este guantelete ha sido modificado con placas contundentes de metal, cuchillas o
 |15 mo¹|1d6 contundente|1 lb|Guante²|
 
 _¹ Precio es por unidad, ya que hay jugadores/as que solo usan uno y tienen la otra mano sin guantelete._
+
 _**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no se la puede desarmar. Puedes sostener objetos, empuñar armas y lanzar hechizos con una mano equipada con un arma de guante, pero solo puedes atacar con el arma de guante si esa mano está desocupada. Se necesita una acción de Usar objeto para ponerse o quitarse un arma de guante._
 
-## Despues del encuentro
+\column
 
-En este punto veremos que pasa despues del partido que engloba dos partes importantes, la recaudación y el reparto de puntos de experiencia.
+## Después del encuentro
+:
+![Halflings](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/halflings.jpg) {width:325px,mix-blend-mode:multiply}
+:
+En este punto veremos que pasa después del partido que engloba dos partes importantes, la recaudación y el reparto de puntos de experiencia.
 
 ### Recaudación del partido
 
@@ -197,19 +210,24 @@ La experiencia se puede hacer de la forma tradicional, calculando la experiencia
 #### Método tradicional de experiencia
 
 Calcula el VD de los contrincantes como si fuera un encuentro normal. Si ganan se llevan esa experiencia para repartirla entre los PJ de tu mesa, si empatan solo se llevan la mitad y si pierden no se llevan nada. 
+{{pageNumber 6}}
+
+\page
 
 #### Metodo por atribución de valor al partido
 
 xxx
 
 
-{{pageNumber 6}}
+{{pageNumber 7}}
 
 \page
 
 # Reglas para hacer ligas
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:
+![Orcos humanos](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/orcos-humanos.jpg) {width:325px,mix-blend-mode:multiply}
 
 ## Robar estandartes
 
@@ -233,7 +251,7 @@ Podría parecer que pudiera haber equipos que jugarán menos partidos más escog
 
 xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-{{pageNumber 7}}
+{{pageNumber 8}}
 \page
 
 # Jugador/a de CrunchBall (JCB)
@@ -297,7 +315,7 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 |20|6|+20/+15/+10|xxx|
 }}
 
-{{pageNumber 8}}
+{{pageNumber 9}}
 
 \page
 
@@ -373,7 +391,7 @@ Su misión es defender al resto del equipo mientras hacen su jugada o romper las
 
 **Trabajo en equipo** Cuando alcanzas el nivel 7 eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
 
-{{pageNumber 9}}
+{{pageNumber 10}}
 
 \page
 
@@ -460,7 +478,7 @@ xxx
 |7||
 |8||
 
-{{pageNumber 10}}
+{{pageNumber 11}}
 
 \page
 
@@ -491,7 +509,7 @@ xxx
 |5||
 |6||
 
-{{pageNumber 11}}
+{{pageNumber 12}}
 
 \page
 
@@ -541,6 +559,9 @@ END OF LICENSE
 
 * [Portada](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420) de [RomCova](https://www.deviantart.com/romcova/)
 * [Contraportada](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370) de [RomCova](https://www.deviantart.com/romcova/)
+* [Halflings](https://www.deviantart.com/romcova/art/Les-Enfants-de-Abbeville-821781241) de [RomCova](https://www.deviantart.com/romcova/)
+* [Orcos-humanos](https://www.deviantart.com/taonavi/art/BloodBowl-fanart-2017-678503708) de [Taonavi](https://www.deviantart.com/taonavi/)
+* [Entrenador](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960) de [LANZAestudio](https://www.deviantart.com/lanzaestudio/)
 
 ## Maquetación
 
