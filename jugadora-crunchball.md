@@ -585,7 +585,7 @@ Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmor
 El CrunchBall es un brutal juego de pelota practicado por la mayoría de razas inteligentes muy parecido al rugby, pero más duro y con menos reglas, lo cual demuestra que no son tan inteligentes.
 ___
 
-En este suplemento encontraras:
+En este suplemento encontrarás:
 
 * Una descripción completa del CrunchBall con su historia y sus grandes equipos.
 * Reglas para jugar partidos.
