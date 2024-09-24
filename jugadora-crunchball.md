@@ -95,7 +95,7 @@ xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 
 # Reglas para hacer partidos
 
-Las reglas para hacer partidos se dividen en 3 partes, antes del partido, durante el partido y despues del partido. Mientras que en el antes y el después del partido pueden participar toda tu mesa, durante el partido solo participarán aquellas personasj que tengan personajes que puedan participar en un partido. 
+Las reglas para hacer partidos se dividen en 3 partes, antes del partido, durante el partido y despues del partido. Mientras que en el antes y el después del partido pueden participar toda tu mesa, durante el partido solo participarán aquellas personas que tengan personajes que puedan participar en un partido. 
 
 ## Antes del encuentro
 
@@ -225,7 +225,9 @@ xxx
 
 # Reglas para hacer ligas
 
-xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Una opción muy interesante es introducir en tu campaña una liga de de CrunchBall de forma que la excusa para moverse por todo el mundo sea participar en diferentes partidos. En cada nuevo lugar podrían tener una aventura y además avanzar en la liga compitiendo con el equipo local.
+
+Otra opción es que la propia liga sea la campaña y montar una especie de aventura en el que un equipo de perdedores van mejorando y ganando partidos. Cada capítulo puede ser la preparación y el jugar el pertido teniendo en cada pueblo alguna aventura extra. Planteatelo como jugar esas películas de equipos de perdedores con entrenador borracho que acaban ganando la liga para sorpresa de todos. 
 :
 ![Orcos humanos](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/orcos-humanos.jpg) {width:325px,mix-blend-mode:multiply}
 
@@ -249,7 +251,7 @@ Podría parecer que pudiera haber equipos que jugarán menos partidos más escog
 
 ### Espónsores
 
-xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+xxx
 
 {{pageNumber 8}}
 \page
