@@ -11,6 +11,7 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 * [Halflings](https://www.deviantart.com/romcova/art/Les-Enfants-de-Abbeville-821781241) de [RomCova](https://www.deviantart.com/romcova/)
 * [Orcos-humanos](https://www.deviantart.com/taonavi/art/BloodBowl-fanart-2017-678503708) de [Taonavi](https://www.deviantart.com/taonavi/)
 * [Entrenador](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960) de [LANZAestudio](https://www.deviantart.com/lanzaestudio/)
+* [Vampiros](https://www.deviantart.com/arvalis/art/Blood-Bowl-High-Stakes-Foul-323291423) de [arvalis](https://www.deviantart.com/arvalis/)
 
 ## Comandos MD especiales
 
@@ -40,7 +41,7 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 
 * https://srd.nosolorol.com/DD5/personajes/trasfondos.html
 
-### Imágenes
+### Imágenes que puedo usar
 
 * https://www.deviantart.com/lanzaestudio/art/WoodElf-Team-Willy-Miniatures-715653082
 * https://www.deviantart.com/lanzaestudio/art/Orc-Fantasy-Football-Iron-Golems-645877134
@@ -48,5 +49,4 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 * https://www.deviantart.com/lanzaestudio/art/Altos-Elfos-Fantasy-Football-for-StarPlayer-M-616742892
 * https://www.deviantart.com/lanzaestudio/art/TEAM-DWARFS-WILLY-MINIATURES-621363508
 * https://www.deviantart.com/arvalis/art/Blood-Bowl-Queen-Nefaria-323176020
-* https://www.deviantart.com/arvalis/art/Blood-Bowl-High-Stakes-Foul-323291423
 * https://www.deviantart.com/petrovi4/art/Blood-Bowl-960263538
