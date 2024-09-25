@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Esto es CrunchBall - D&D 5e
+
+InfoKey: Subject
+InfoValue: Guía deportiva del CrunchBall para D&D 5e. Este suplemento es un producto FAN donde encontrarás reglas para integrar el CrunchBall en tus aventuras. Ver. 0.5
+
+InfoKey: Author
+InfoValue: @Gwannon
+
+InfoKey: Keywords
+InfoValue: D&D, deportivo, crunchball

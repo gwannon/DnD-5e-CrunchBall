@@ -87,7 +87,7 @@ xxx
 
 # Ligas actuales
 
-xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+xxx
 
 {{pageNumber 4}}
 
@@ -95,7 +95,7 @@ xxx Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp
 
 # Reglas para hacer partidos
 
-Las reglas para hacer partidos se dividen en 3 partes, antes del partido, durante el partido y despues del partido. Mientras que en el antes y el después del partido pueden participar toda tu mesa, durante el partido solo participarán aquellas personas que tengan personajes que puedan participar en un partido. 
+Las reglas para hacer partidos se dividen en 3 partes, antes del partido, durante el partido y después del partido. Mientras que en el antes y el después del partido pueden participar toda tu mesa, durante el partido solo participarán aquellas personas que tengan personajes que puedan participar en un partido. 
 
 ## Antes del encuentro
 
@@ -214,7 +214,7 @@ Calcula el VD de los contrincantes como si fuera un encuentro normal. Si ganan s
 
 \page
 
-#### Metodo por atribución de valor al partido
+#### Método por atribución de valor al partido
 
 xxx
 
@@ -225,9 +225,9 @@ xxx
 
 # Reglas para hacer ligas
 
-Una opción muy interesante es introducir en tu campaña una liga de de CrunchBall de forma que la excusa para moverse por todo el mundo sea participar en diferentes partidos. En cada nuevo lugar podrían tener una aventura y además avanzar en la liga compitiendo con el equipo local.
+Una opción muy interesante es introducir en tu campaña una liga de CrunchBall de forma que la excusa para moverse por todo el mundo sea participar en diferentes partidos. En cada nuevo lugar podrían tener una aventura y además avanzar en la liga compitiendo con el equipo local.
 
-Otra opción es que la propia liga sea la campaña y montar una especie de aventura en el que un equipo de perdedores van mejorando y ganando partidos. Cada capítulo puede ser la preparación y el jugar el pertido teniendo en cada pueblo alguna aventura extra. Planteatelo como jugar esas películas de equipos de perdedores con entrenador borracho que acaban ganando la liga para sorpresa de todos. 
+Otra opción es que la propia liga sea la campaña y montar una especie de aventura en el que un equipo de perdedores van mejorando y ganando partidos. Cada capítulo puede ser la preparación y el jugar el partido teniendo en cada pueblo alguna aventura extra. Planteátelo como jugar esas películas de equipos de perdedores con entrenador borracho que acaban ganando la liga para sorpresa de todos. 
 :
 ![Orcos humanos](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/orcos-humanos.jpg) {width:325px,mix-blend-mode:multiply}
 
@@ -302,7 +302,7 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 |5|3|+5/0/0|Derribo|
 |6|3|+5/0/0|Mejora de característica|
 |7|3|+10/+5/0|Rasgo de posición en el campo|
-|8|3|+10/+5/0|Mejora de característica|
+|8|3|+10/+5/0|Ataque adicional|
 |9|4|+10/+5/0|Leer a tu oponente I|
 |10|4|+10/+5/0|Rasgo de posición en el campo|
 |11|4|+10/+5/0|Estilo de juego adicional|
@@ -311,10 +311,10 @@ Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo
 |14|5|+15/+10/+5|Mejora de característica|
 |15|5|+15/+10/+5|Rasgo de posición en el campo|
 |16|5|+15/+10/+5|Mejora de característica|
-|17|6|+20/+15/+10|xxx|
+|17|6|+20/+15/+10|Ataque adicional|
 |18|6|+20/+15/+10|Rasgo de posición en el campo|
 |19|6|+20/+15/+10|Mejora de característica|
-|20|6|+20/+15/+10|xxx|
+|20|6|+20/+15/+10|Fama y fortuna|
 }}
 
 {{pageNumber 9}}
@@ -365,13 +365,21 @@ En el nivel 3 comienzas a entrenar para jugar en una posición más especializad
 
 A partir del nivel 5, cuando realizas un ataque CaC sin usar armas o con nudilleras o guanteletes, puedes elegir derribar al oponente como parte del ataque. El oponente deberá pasar una tirada de salvación de Fuerza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar el derribo. Solo puedes derribar a oponentes hasta una categoría de tamaño mayor que tú.
 
+### Ataque adicional
+
+A partir del nivel 8, puedes atacar dos veces en lugar de una cuando realices la acción de ataque durante tu turno.
+
+El número de ataques aumenta a tres cuando llegas al nivel 17 de esta clase.
+
 ### Leer a tu oponente I
 
 Las grandes jugadoras y jugadores de CrunchBall aprenden a leer a sus oponentes. Leen su lenguaje corporal, sus tics, sus expresiones y sus tonos de voz y aprenden a interpretarlos. En mitad de combate pueden elegir a un oponente y gastando su acción tirar Perspicacia (CA 10). Si pasan la tirada en el siguiente turno podrán actuar antes que él. Al siguiente turno volverá a su iniciativa normal.
 
-Se puede preparar antes de tirar iniciativa si no has sido cogido por sorpresa y por ejemplo ha habido tiempo de hablar y observarse al menos 1 turno, por ejemplo mientras se coloca la defensa y el ataque en un partido de CrunchBall. 
+Se puede preparar antes de tirar iniciativa si no has sido cogido por sorpresa y ha habido tiempo de hablar y observarse al menos 1 turno, por ejemplo mientras se coloca la defensa y el ataque en un partido de CrunchBall. 
 
-En caso de tener competencia con Perspicacia, reciben esa competencia en vez de Leer a tu oponente.
+Si dos PJ usan este rasgo entre sí, va primero el que saco la tirada más alta. Si PJ2 lee a PJ1 y PJ3 lee a PJ2, PJ3 actua antes que PJ2 y PJ1. Si PJ2 puede actuar lo hará antes que PJ1. 
+
+En caso de no tener competencia con Perspicacia, reciben esa competencia en vez de «Leer a tu oponente I».
 
 ### Estilo de juego adicional
 
@@ -381,7 +389,21 @@ En el nivel 11, puedes elegir una segunda opción para el rasgo de clase Estilo 
 
 A este nivel consigues además tener ventaja a la hora de atacarle. 
 
-Si no tienen «Leer a tu oponente», reciben ese rasgo en vez de «Leer a tu oponente II».
+Si no tienen «Leer a tu oponente I», reciben ese rasgo en vez de «Leer a tu oponente II».
+
+### Fama y fortuna
+
+Solo muy pocos llegan a este nivel de maestría en este deporte y es por ello que ha llegado la hora de retirarte y disfrutar de la vida.
+
+{{pageNumber 10}}
+
+\page
+
+Consigues una taberna con tu vivienda encima. La taberna está cerca del campo de tu equipo preferido.
+
+Es una taberna magnífica con numerosas estancias. La atmósfera es limpia, fresca y acogedora. El lugar está amueblado y decorado con recuerdos de tu años jugando a CrunchBall. Contiene bebida suficiente como para servir copas y jarras de buen alcohol a 100 personas. Trabajan para ti unas 10 personas que sirven bebida y comida, limpian, cocinan, hacen cuentas y te dejan 2000 mo limpias todos los meses para tus gastos.
+
+Además podrás ver los partidos que desees desde el palco de honor y te invitarán a encuentros de viejas glorias donde disfrutaras recordando los buenos tiempos.
 
 ## Posiciones en el campo
 
@@ -392,10 +414,6 @@ Cada JCB, según avanza en su desarrollo deportivo, se puede especializar en 4 p
 Su misión es defender al resto del equipo mientras hacen su jugada o romper las defensas del equipo contrario cuando hay que robarles el balón.
 
 **Protección:** A nivel 3 aprendes a proteger a otros jugadores/as de forma eficiente. Si lo decides al principio de tu turno, todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja hasta su siguiente turno. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti. 
-
-{{pageNumber 10}}
-
-\page
 
 **Trabajo en equipo** Cuando alcanzas el nivel 7 eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
 
@@ -408,6 +426,8 @@ Solo puedes caerle encima a criaturas hasta una categoría de tamaño mayor que 
 **xxx:** Cuando alcanzas el nivel 15 xxx 
 
 **xxx:** A nivel 18 xxx
+
+\column
 
 ### Lanzador/a
 
@@ -445,7 +465,11 @@ Unas de las figuras más queridas del CrunchBall por el público son los valient
 
 **Correr en el barro:** A nivel 3 tu entrenamiento corriendo en todo tipo de entorno hace que en combate no sufras penalizaciones por terreno difícil.
 
-**Cazamagos:**  La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 7, recibes la competencia en la habilidad Conocimiento arcano de forma que la conoces y puedes identificar las criaturas con conocimientos mágicos. Como corredor, en la defensa, una de tus tareas es derribar a los lanzadoras, sean de conjuros o de balones, por ello, además, xxx
+{{pageNumber 11}}
+
+\page
+
+**Cazamagos:** La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 7, recibes la competencia en la habilidad Conocimiento arcano de forma que la conoces y puedes identificar las criaturas con conocimientos mágicos. Como corredor, en la defensa, una de tus tareas es derribar a los lanzadores, sean de conjuros o de balones, por ello, además, xxx
 
 **Robar balón:** A nivel 10 tu técnica de robar balones de las manos a tus oponentes es tan buena que puedes usarla también para desarmar a tus oponentes con solo tus manos. xxx
 
@@ -481,10 +505,6 @@ xxx
 |6||
 |7||
 |8||
-
-{{pageNumber 11}}
-
-\page
 
 |1d6|Ideal|
 |---|-----|
