@@ -479,25 +479,29 @@ Unas de las figuras más queridas del CrunchBall por el público son los valient
 
 ## De las ligas menores (Trasfondo)
 
-xxx
+Es crunchball es tu pasión y llevas jugando a este fantástico deporte desde muy pequeño. Has respirado, comido y bebido crunchball todos los días de tu vida y ahora estás esperando a que algún entrenador de un equipo de segunda venga a tu pueblo y te ofrezca tu primer partido profesional. Quizás te haya escogido porque tiene medio banquillo lesionado, de resaca o en la cárcel. Pero da lo mismo, piensas aprovechar esta oportunidad y lo vas a dar todo en el campo.
 
-**Competencia con habilidades:** xxx 2 habilidades
+Pero no solo has entrenado tu cuerpo, también tu mente sabes todas las reglas de este deporte, todas las estadísticas, los equipos, sus integrantes, finales, marcadores y con el tiempo has aprendido las cosas que pasaron alrededor de esos encuentros.
+:
+**Competencia con habilidades:** Atletismo, Historia 
+:
+**Idiomas:** Conoces el idioma que usa tu jugador/a preferida.
+:
+**Equipo:** Banderines de tu equipo preferido, ropa con sus colores, bufanda con sus colores y una bolsita con sus colores que contiene 15 mo.
+:
+**Rasgo: Más que un deporte**
 
-**Idiomas:** xxx 2 idiomas
+Aunque sea una figura menor de este deporte, sigues siendo una pieza importante y nunca te faltarán fans que te inviten a comer o paguen tus copas. Quienes compartan tu afición por el crunchball te financiarán un estilo de vida moderado (pero solo a ti).
 
-**Equipo:** xxx un saco que contiene 15 mo.
-
-**Rasgo: xxx**
-
-xxx
-
+Siempre que estés en casa, tu equipo se encargará de suministrarte comida y alojamiento y de pagarte unas jarras de alcohol en el bar del equipo. Su personal sanitario se encargará de curarte y si participas en partidos repartirá beneficios contigo.
+:
 **Características sugeridas**
 
-xxx
+Los novatos y novatas se forjan en las ligas menores de crunchball, entrenando su cuerpo y estudiando sus reglas y su historia. Para bien o para mal el crunchball forma parte de tu vida y eso forma una parte importante de tu personalidad.
 
 |1d8|Rasgo de personalidad|
 |---|---------------------|
-|1||
+|1|Soy fan incondicional de una estrella en particular de mi equipo preferido y hablo constantemente de sus hazañas.|
 |2||
 |3||
 |4||
@@ -513,15 +517,15 @@ xxx
 |3||
 |4||
 |5||
-|6||
+|6|Aspiración. Mi intención es demostrarme a mí mismo que merezco jugar con las estrellas más grandes del crunchball.|
 
 |1d6|Vínculo|
 |---|-------|
 |1||
 |2||
 |3||
-|4||
-|5||
+|4|Todo lo que hago es por los y las fans de mi equipo.|
+|5|Haré cualquier cosa por proteger al equipo en el que juego.|
 |6||
 
 |1d6|Desventaja|
