@@ -367,7 +367,9 @@ A partir del nivel 5, cuando realizas un ataque CaC sin usar armas o con nudille
 
 ### Leer a tu oponente I
 
-Las grandes jugadoras y jugadores de CrunchBall aprenden a leer a sus oponentes. Leen su lenguaje corporal, sus tics, sus expresiones y sus tonos de voz y aprenden a interpretarlos. En mitad de combate pueden gastar una acción xxx y tirar Perspicacia (CA xxx) para xxx
+Las grandes jugadoras y jugadores de CrunchBall aprenden a leer a sus oponentes. Leen su lenguaje corporal, sus tics, sus expresiones y sus tonos de voz y aprenden a interpretarlos. En mitad de combate pueden elegir a un oponente y gastando su acción tirar Perspicacia (CA 10). Si pasan la tirada en el siguiente turno podrán actuar antes que él. Al siguiente turno volverá a su iniciativa normal.
+
+Se puede preparar antes de tirar iniciativa si no has sido cogido por sorpresa y por ejemplo ha habido tiempo de hablar y observarse al menos 1 turno, por ejemplo mientras se coloca la defensa y el ataque en un partido de CrunchBall. 
 
 En caso de tener competencia con Perspicacia, reciben esa competencia en vez de Leer a tu oponente.
 
@@ -377,9 +379,9 @@ En el nivel 11, puedes elegir una segunda opción para el rasgo de clase Estilo 
 
 ### Leer a tu oponente II
 
-xxx
+A este nivel consigues además tener ventaja a la hora de atacarle. 
 
-Si no tienen Leer a tu oponente, reciben ese rasgo en vez de Leer a tu oponente II.
+Si no tienen «Leer a tu oponente», reciben ese rasgo en vez de «Leer a tu oponente II».
 
 ## Posiciones en el campo
 
@@ -391,13 +393,13 @@ Su misión es defender al resto del equipo mientras hacen su jugada o romper las
 
 **Protección:** A nivel 3 aprendes a proteger a otros jugadores/as de forma eficiente. Si lo decides al principio de tu turno, todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja hasta su siguiente turno. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti. 
 
-**Trabajo en equipo** Cuando alcanzas el nivel 7 eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
-
 {{pageNumber 10}}
 
 \page
 
-**Caer en plancha:** A nivel Al alcanzar el nivel 10 aprendes a usar tu corpulencia como arma para caer en plancha sobre tus contrincantes y derribarlos. 
+**Trabajo en equipo** Cuando alcanzas el nivel 7 eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
+
+**Caer en plancha:** Al alcanzar el nivel 10 aprendes a usar tu corpulencia como arma para caer en plancha sobre tus contrincantes y derribarlos. 
 
 Si te mueves mínimo 10 pies puedes elegir un enemigo y un enemigo adyacente a él y caer sobre ellos. Los seres que estén en esas casillas deben hacer una salvación de Destreza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar que les caigas encima o recibir 3d8 + bonificador de Fue de daño. Si reciben daño acaban derribados en el suelo. Además el oponente principal siempre es empujado 5 pies en una dirección a tu elección.
 
@@ -569,7 +571,6 @@ END OF LICENSE
 
 Maquetado con [Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com/)
 
-
 {{pageNumber 14}}
 
 \page
@@ -578,9 +579,11 @@ Maquetado con [Homebrewery.Naturalcrit.com](https://homebrewery.naturalcrit.com/
 
 # Esto es CrunchBall
 
-Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.
+_«Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmorra o enfrentarte a un dragón te parecerá un camino de rosas.»_
 :
-«Esto es crunchBall» es un producto FAN donde encontrarás reglas para integrar el CrunchBall en tus aventuras de D&D.
+**Walter MacCraff** entrenador y capitán de los Pisaverde de LagoClaro
+:
+Este suplemento es un producto FAN donde encontrarás reglas para integrar el CrunchBall en tus aventuras de D&D.
 :
 El CrunchBall es un brutal juego de pelota practicado por la mayoría de razas inteligentes muy parecido al rugby, pero más duro y con menos reglas, lo cual demuestra que no son tan inteligentes.
 ___
