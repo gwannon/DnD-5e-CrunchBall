@@ -24,7 +24,7 @@ Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmor
 ___
 
 {{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
-  ![background image](https://i.imgur.com/IsfUnFR.jpg){position:absolute,bottom:0,left:0,height:100%}
+  ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/vampiros.jpg){position:absolute,top:20%,left:-5%,height:100%}
 }}
 
 {{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/87495cf3b1a1d922450fe0c7a891500e97c67aa6/dnd.svg)}}
