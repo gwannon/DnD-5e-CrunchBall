@@ -17,6 +17,20 @@ Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmor
 
 \page
 
+{{insideCover}}
+
+# Historia
+## del crunchball
+___
+
+{{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![background image](https://i.imgur.com/IsfUnFR.jpg){position:absolute,bottom:0,left:0,height:100%}
+}}
+
+{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/87495cf3b1a1d922450fe0c7a891500e97c67aa6/dnd.svg)}}
+
+\page
+
 # Historia del CrunchBall
 
 El CrunchBall se pierde en los albores de la historia y los expertos no tiene muy claro su origen. En lo que toda la gente que ha estudiado su historia coinciden es que el alcohol y la violencia descerebrada fueron elementos fundacionales de este deporte.
@@ -590,6 +604,8 @@ END OF LICENSE
 * [Halflings](https://www.deviantart.com/romcova/art/Les-Enfants-de-Abbeville-821781241) de [RomCova](https://www.deviantart.com/romcova/)
 * [Orcos-humanos](https://www.deviantart.com/taonavi/art/BloodBowl-fanart-2017-678503708) de [Taonavi](https://www.deviantart.com/taonavi/)
 * [Entrenador](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960) de [LANZAestudio](https://www.deviantart.com/lanzaestudio/)
+* [Vampiros](https://www.deviantart.com/arvalis/art/Blood-Bowl-High-Stakes-Foul-323291423) de [arvalis](https://www.deviantart.com/arvalis/)
+
 
 ## Maquetación
 
