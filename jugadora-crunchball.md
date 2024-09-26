@@ -27,7 +27,7 @@ ___
   ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/vampiros.jpg){position:absolute,top:20%,left:-5%,height:100%}
 }}
 
-{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/87495cf3b1a1d922450fe0c7a891500e97c67aa6/dnd.svg)}}
+{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/bola.svg)}}
 
 \page
 
@@ -60,6 +60,20 @@ xxx
 xxx
 
 {{pageNumber 1}}
+
+\page
+
+{{insideCover}}
+
+# Reglamento
+## del crunchball
+___
+
+{{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/blitz.jpg){position:absolute,top:20%,left:-5%,height:100%}
+}}
+
+{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/bola.svg)}}
 
 \page
 
@@ -99,11 +113,39 @@ xxx
 
 \page
 
+{{insideCover}}
+
+# Ligas actuales
+## de crunchball
+___
+
+{{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/vampiros.jpg){position:absolute,top:20%,left:-5%,height:100%}
+}}
+
+{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/bola.svg)}}
+
+\page
+
 # Ligas actuales
 
 xxx
 
 {{pageNumber 4}}
+
+\page
+
+{{insideCover}}
+
+# Reglas
+## para hacer partidos
+___
+
+{{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/vampiros.jpg){position:absolute,top:20%,left:-5%,height:100%}
+}}
+
+{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/bola.svg)}}
 
 \page
 
@@ -237,6 +279,20 @@ xxx
 
 \page
 
+{{insideCover}}
+
+# Reglas
+## para hacer ligas
+___
+
+{{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/vampiros.jpg){position:absolute,top:20%,left:-5%,height:100%}
+}}
+
+{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/bola.svg)}}
+
+\page
+
 # Reglas para hacer ligas
 
 Una opción muy interesante es introducir en tu campaña una liga de CrunchBall de forma que la excusa para moverse por todo el mundo sea participar en diferentes partidos. En cada nuevo lugar podrían tener una aventura y además avanzar en la liga compitiendo con el equipo local.
@@ -268,6 +324,21 @@ Podría parecer que pudiera haber equipos que jugarán menos partidos más escog
 xxx
 
 {{pageNumber 8}}
+
+\page
+
+{{insideCover}}
+
+# Clase Jugador/a
+## de CrunchBall (JCB)
+___
+
+{{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/vampiros.jpg){position:absolute,top:20%,left:-5%,height:100%}
+}}
+
+{{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/bola.svg)}}
+
 \page
 
 # Jugador/a de CrunchBall (JCB)
@@ -605,7 +676,8 @@ END OF LICENSE
 * [Orcos-humanos](https://www.deviantart.com/taonavi/art/BloodBowl-fanart-2017-678503708) de [Taonavi](https://www.deviantart.com/taonavi/)
 * [Entrenador](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960) de [LANZAestudio](https://www.deviantart.com/lanzaestudio/)
 * [Vampiros](https://www.deviantart.com/arvalis/art/Blood-Bowl-High-Stakes-Foul-323291423) de [arvalis](https://www.deviantart.com/arvalis/)
-
+* [Bola](https://pixabay.com/vectors/rugby-ball-sports-rugby-ball-34152/) de [Clker-Free-Vector-Images](https://pixabay.com/users/clker-free-vector-images-3736/)
+* [Blitz](https://www.deviantart.com/petrovi4/art/Blood-Bowl-960263538) de [petrovi4](https://www.deviantart.com/petrovi4/)
 
 ## Maquetación
 
