@@ -46,3 +46,8 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 * https://www.deviantart.com/lanzaestudio/art/Altos-Elfos-Fantasy-Football-for-StarPlayer-M-616742892
 * https://www.deviantart.com/lanzaestudio/art/TEAM-DWARFS-WILLY-MINIATURES-621363508
 * https://www.deviantart.com/arvalis/art/Blood-Bowl-Queen-Nefaria-323176020
+
+
+
+https://es.vecteezy.com/arte-vectorial/10994258-bola-nfl-negro-logo-simbolo-diseno-america-futbol-americano-vector-paises-futbol-americano-equipos-ilustracion-con-fondo-blanco
+https://nufflezone.com/wp-content/uploads/2023/05/Icono_Nuffle_Zone_Ball_Black-3000x3000-1-1024x1024.png
