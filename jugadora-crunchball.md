@@ -156,8 +156,6 @@ Las reglas para hacer partidos se dividen en 3 partes, antes del partido, durant
 ## Antes del encuentro
 
 xxx
-:
-![Entrenador](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/entrenador.jpg) {width:325px,mix-blend-mode:multiply}
 
 #### Entrenamientos
 
@@ -177,8 +175,22 @@ Lo primero es decidir quien tiene la posesión del balón y lo segundo en que si
 
 El campo es rectángulo de 70x45 pies (14x9 casillas), pero sin esquinas (se quita un cono de 15 pies desde cada esquina) y está divido en dos partes para cada equipo de 35x45 pies (7x9 casillas). Al extremo de cada campo está la línea de gol, a donde el equipo contrario debe llegar con la pelota para marcar. Como el terreno de cada equipo se va estrechando y no puedes salirte del campo, la defensa es cada vez más fácil para el defensor.
 
-xxx
+xxx!
 
+
+
+{{wide
+
+![Campo](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/mapa-campo.jpg) {width:700px,mix-blend-mode:multiply}
+
+}}
+
+{{pageNumber 4}}
+
+\page
+
+![Entrenador](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/entrenador.jpg) {width:325px,mix-blend-mode:multiply}
+:
 ### Arbitraje
 
 xxx
@@ -202,10 +214,6 @@ Necesitará otra tirada de Juegos de manos (CA Percepción pasiva del árbitro) 
 #### Objetos mágicos
 
 xxx
-
-{{pageNumber 5}}
-
-\page
 
 ### Armas en el campo de juego
 
@@ -237,6 +245,10 @@ Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los 
 
 Estos guanteletes son como los que se venden con las armaduras sin ningún tipo de modificación, pero usados como arma en vez de como protección. 
 
+{{pageNumber 5}}
+
+\page
+
 |Coste|Daño|Peso|Propiedades|
 |-----|----|----|-----------|
 |8 mo¹|1d4 contundente|0,5 lb|Guante¹|
@@ -262,10 +274,6 @@ En este punto veremos que pasa después del partido que engloba dos partes impor
 ### Recaudación del partido
 
 xxx
-
-{{pageNumber 6}}
-
-\page
 
 ### Experiencia
 
