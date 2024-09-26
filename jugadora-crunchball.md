@@ -701,6 +701,7 @@ END OF LICENSE
 * [Vampiros](https://www.deviantart.com/arvalis/art/Blood-Bowl-High-Stakes-Foul-323291423) de [arvalis](https://www.deviantart.com/arvalis/)
 * [Bola](https://pixabay.com/vectors/rugby-ball-sports-rugby-ball-34152/) de [Clker-Free-Vector-Images](https://pixabay.com/users/clker-free-vector-images-3736/)
 * [Blitz](https://www.deviantart.com/petrovi4/art/Blood-Bowl-960263538) de [petrovi4](https://www.deviantart.com/petrovi4/)
+* [Mapa campo](https://angelamaps.com/2021/05/27/stock-scenes/) de [AngelaMaps](https://angelamaps.com/)
 
 ## Maquetación
 
