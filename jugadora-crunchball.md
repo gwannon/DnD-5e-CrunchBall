@@ -159,7 +159,6 @@ xxx
 :
 ![Entrenador](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/entrenador.jpg) {width:325px,mix-blend-mode:multiply}
 
-
 #### Entrenamientos
 
 xxx
@@ -180,6 +179,10 @@ El campo tiene unas dimensiones de 10x20 casillas y está divido en dos partes p
 
 xxx
 
+### Arbitraje
+
+xxx
+
 ### Magia durante los partidos
 
 La regla principal de la magia durante los encuentros es que no puede cruzar las líneas exteriores del campo.
@@ -195,6 +198,10 @@ Por otro lado, un jugador podría jugar todo un partido con una cota de llamas +
 A pesar de que es ilegal, un jugador/a pueda meter ilegalmente algún objeto mágico oculta entre su equipamiento y usarlo furtivamente. Con una tirada de Juegos de manos (CA Percepción pasiva del árbitro) puedes escamotear un único objeto mágico dentro del campo. 
 
 Necesitará otra tirada de Juegos de manos (CA Percepción pasiva del árbitro) y una acción completa para usarlo. De esa forma se podría meter una poción de curación en el campo y tomártela o usarla en una criatura.
+
+#### Objetos mágicos
+
+xxx
 
 ### Armas en el campo de juego
 
@@ -225,7 +232,6 @@ Las nudilleras son piezas de metal con una forma que se ajusta alrededor de los 
 |Coste|Daño|Peso|Propiedades|
 |-----|----|----|-----------|
 |50 mp|+2 contundente|0,1 lb|Guante¹|
-
 
 #### Guantelete
 
@@ -273,7 +279,6 @@ Calcula el VD de los contrincantes como si fuera un encuentro normal. Si ganan s
 #### Método por atribución de valor al partido
 
 xxx
-
 
 {{pageNumber 7}}
 
@@ -329,8 +334,8 @@ xxx
 
 {{insideCover}}
 
-# Clase Jugador/a
-## de CrunchBall (JCB)
+# Nueva Clase 
+## Jugador/a de CrunchBall
 ___
 
 {{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
@@ -367,7 +372,6 @@ Si puedes aguantar en pie un partido completo de CrunchBall, entrar a una mazmor
 
 Empiezas con el siguiente equipo, además del equipo que te concede tu trasfondo:
 :
-
 \column
 
 ![Corredor](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/contraportada.jpg) {width:325px,mix-blend-mode:multiply}

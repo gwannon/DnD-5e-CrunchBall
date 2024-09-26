@@ -21,19 +21,14 @@ El diseño se ha hecho con [THE HOMEBREWERY](https://homebrewery.naturalcrit.com
 * Salto de página: \page
 * Paginación: {{pageNumber 1}}
 * Notas al pie: {{footnote Lorem ipsum}}
+* Notas: {{note }}
+
 
 ## Enlaces útiles
 
 ### Ideas de habilidades
 
-* Corredor -> Tirarse en plancha, mejorar la distancia del salto horizontal.
-* Corredor -> Mejorar la carga para los bloqueadores/corredores
-* Corredor -> Robar balón
-
-### Clases de las que aprovechar algo
-
-* https://srd.nosolorol.com/DD5/personajes/profesiones/monje.html
-* https://srd.nosolorol.com/DD5/personajes/profesiones/guerrero.html
+* xxx
 
 ### Habilidades Blood Bowl
 
