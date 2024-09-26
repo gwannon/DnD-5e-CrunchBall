@@ -142,7 +142,7 @@ xxx
 ___
 
 {{imageMaskCenter13,--offsetX:0%,--offsetY:0%,--rotation:0
-  ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/vampiros.jpg){position:absolute,top:20%,left:-5%,height:100%}
+  ![background image](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/orcos-humanos.jpg){position:absolute,top:15%,left:-55%,height:100%}
 }}
 
 {{logo ![](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/bola.svg)}}
@@ -203,6 +203,10 @@ Necesitará otra tirada de Juegos de manos (CA Percepción pasiva del árbitro) 
 
 xxx
 
+{{pageNumber 5}}
+
+\page
+
 ### Armas en el campo de juego
 
 Cualquier tipo de arma está prohibida en el campo, a excepción de las nudilleras protectoras, el guantelete y el guantelete armado.
@@ -210,10 +214,6 @@ Cualquier tipo de arma está prohibida en el campo, a excepción de las nudiller
 Eso no quiere decir que un jugador/a pueda meter ilegalmente alguna pequeña arma oculta entre su equipamiento para hacer ataques furtivos. Con una tirada de Juegos de manos (CA Percepción pasiva del árbitro) puedes escamotear un arma pequeña dentro del campo.
 
 La pelota de CrunchBall también puede ser usada como arma debido a su peso y la contundencia que le otorga su interior de madera.
-
-{{pageNumber 5}}
-
-\page
 
 #### Bola de CrunchBall
 
@@ -253,8 +253,6 @@ _¹ Precio es por unidad, ya que hay jugadores/as que solo usan uno y tienen la 
 
 _**² Guante:** Una arma con la propiedad guante se lleva puesta en la mano y no se la puede desarmar. Puedes sostener objetos, empuñar armas y lanzar hechizos con una mano equipada con un arma de guante, pero solo puedes atacar con el arma de guante si esa mano está desocupada. Se necesita una acción de Usar objeto para ponerse o quitarse un arma de guante._
 
-\column
-
 ## Después del encuentro
 :
 ![Halflings](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/halflings.jpg) {width:325px,mix-blend-mode:multiply}
@@ -265,6 +263,10 @@ En este punto veremos que pasa después del partido que engloba dos partes impor
 
 xxx
 
+{{pageNumber 6}}
+
+\page
+
 ### Experiencia
 
 La experiencia se puede hacer de la forma tradicional, calculando la experiencia que da el partido como si fuera un combate más o atribuyendo un valor de experiencia al partido. El primero es más adecuado cuando tu mesa se mete en un único partido como parte de una aventura. El segundo está pensado más para aventuras en que tu mesa llevas jugadores/as de CrunchBall y el resto del equipo técnico como parte de la aventura.
@@ -272,9 +274,6 @@ La experiencia se puede hacer de la forma tradicional, calculando la experiencia
 #### Método tradicional de experiencia
 
 Calcula el VD de los contrincantes como si fuera un encuentro normal. Si ganan se llevan esa experiencia para repartirla entre los PJ de tu mesa, si empatan solo se llevan la mitad y si pierden no se llevan nada. 
-{{pageNumber 6}}
-
-\page
 
 #### Método por atribución de valor al partido
 
@@ -327,6 +326,12 @@ Podría parecer que pudiera haber equipos que jugarán menos partidos más escog
 ### Espónsores
 
 xxx
+
+###  Ligas y equipos según tu nivel
+
+Esta es una guía de los niveles que tendrían los miembros de un equipo según su liga.
+
+De esta forma podrás saber cuando los ojeadores de equipos de una liga superior deberían empezar a vigilar a tus jugadoras y jugadores y ofrecerles contratos en sus equipos.
 
 {{pageNumber 8}}
 
@@ -494,6 +499,12 @@ Es una taberna magnífica con numerosas estancias. La atmósfera es limpia, fres
 
 Además podrás ver los partidos que desees desde el palco de honor y te invitarán a encuentros de viejas glorias donde disfrutaras recordando los buenos tiempos.
 
+
+Conversaciones
+5,79 GB ocupados de 15 GB
+Términos · Privacidad · Política del programa
+Última actividad de la cuenta: hace 0 minutos
+Detalles
 ## Posiciones en el campo
 
 Cada JCB, según avanza en su desarrollo deportivo, se puede especializar en 4 posiciones (arquetipos) y aprender las destrezas y las habilidades de ese puesto.
@@ -502,35 +513,37 @@ Cada JCB, según avanza en su desarrollo deportivo, se puede especializar en 4 p
 
 Su misión es defender al resto del equipo mientras hacen su jugada o romper las defensas del equipo contrario cuando hay que robarles el balón.
 
-**Protección:** A nivel 3 aprendes a proteger a otros jugadores/as de forma eficiente. Si lo decides al principio de tu turno, todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja hasta su siguiente turno. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti. 
+**Protección:** A nivel 3 aprendes a proteger a otros jugadores/as de forma eficiente. Si lo decides al principio de tu turno, todos los ataque CaC a aliados a 5 pies o menos de ti reciben desventaja hasta su siguiente turno. Centrarte en tus compañeros hace que no puedas centrarte en tu defensa, con lo que todos los ataques CaC a ti tienen ventaja si tienes aliados a 5 pies o menos de ti.
 
 **Trabajo en equipo** Cuando alcanzas el nivel 7 eres tan bueno trabajando en equipo y ayudando al resto de la defensa que puedes prestar ayuda a tus aliados para que ataquen a enemigos que estén a 10 pies o menos de ti.
 
-**Caer en plancha:** Al alcanzar el nivel 10 aprendes a usar tu corpulencia como arma para caer en plancha sobre tus contrincantes y derribarlos. 
+**Caer en plancha:** Al alcanzar el nivel 10 aprendes a usar tu corpulencia como arma para caer en plancha sobre tus contrincantes y derribarlos.
 
 Si te mueves mínimo 10 pies puedes elegir un enemigo y un enemigo adyacente a él y caer sobre ellos. Los seres que estén en esas casillas deben hacer una salvación de Destreza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar que les caigas encima o recibir 3d8 + bonificador de Fue de daño. Si reciben daño acaban derribados en el suelo. Además el oponente principal siempre es empujado 5 pies en una dirección a tu elección.
 
 Solo puedes caerle encima a criaturas hasta una categoría de tamaño mayor que la tuya y por desgracia tú también acabas derribado en la casilla donde estaba el enemigo empujado.
 
-**xxx:** Cuando alcanzas el nivel 15 xxx 
-
-**xxx:** A nivel 18 xxx
-
 \column
+
+**xxx:** Cuando alcanzas el nivel 15 xxx
+
+**Bloqueo heroico:** A nivel 18 xxx
 
 ### Lanzador/a
 
-Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el eje principal de la mayoría de las jugadas y hacer lanzamientos precisos que ponen al público en pie mientras vuela la pelota para caer en menos de un receptor.
+Estos jugadores y jugadoras suelen ser las estrellas de los equipos, al ser el eje principal de la mayoría de las jugadas y hacer lanzamientos precisos que ponen al público en pie mientras vuela la pelota para caer en manos de un receptor.
 
-**Pase largo:** A nivel 3 has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas. Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.   
+**Pase largo:** A nivel 3 has practicado tantos lanzamientos de balón que puedes lanzar a largas distancias. Doblas la distancia de todas las armas arrojadizas. Por ejemplo, un arma arrojadiza improvisada pasa de 20/60 a 40/120.  
 
-**Evasión:** A nivel 7, tu entrenamiento te permite esquivar la trayectoria de ciertas áreas de efecto, tales como el aliento de un dragón o un conjuro de bola de fuego. Cuando estás sujeto a un efecto que te permite hacer una tirada de salvación de Destreza para obtener la mitad del daño, no obtienes ningún daño en su lugar si la superas, y si la fallas obtienes la mitad.
+**Evasión:** A nivel 7, tu entrenamiento te permite esquivar la trayectoria de ciertas áreas de efecto, tales como el aliento de un dragón o un conjuro de bola de fuego. Cuando estás sujeto a un efecto que te permite hacer una tirada de salvación de Destreza para obtener la mitad del daño, no obtienes ningún daño. En su lugar si la superas, y si la fallas obtienes la mitad.
 
-**xxx:** Al alcanzar el nivel 10 xxx
+**Maestro del balón:** Al alcanzar el nivel 10 eres tan diestro en el uso del balón que puedes atacar con el balón a objetivos a máximo 15 pies y hacer que rebote para volver a tus manos. Si fallas el ataque el balón sigue volviendo a tus manos. Solo si hay una pifia, pierdes el balón y cae en una casilla al azar alrededor de tu objetivo. No generas desventaja por usar tu balón como arma arrojadiza estando cuerpo a cuerpo.
 
-**xxx:** A nivel 15 xxx 
+Además todos tus ataques con un balón de CrunchBall reciben +1 al ataque y al daño.
 
-**xxx:** Cuando alcanzas el nivel 18 xxx
+**xxx:** A nivel 15 xxx
+
+**Lanzamiento a la desesperada:** Cuando alcanzas el nivel 18 xxx
 
 ### Receptor/a
 
@@ -540,13 +553,17 @@ Siendo el elemento más pido y diestro del equipo pueden colarse entre las líne
 
 En caso de tener que hacer tiradas el bonificador de Destreza se suma a tu Fue. Además, eres tan bueno saltando que durante el salto puedes hacer interacciones con objetos que te rodean como si fuera movimiento normal de forma que durante el salto puedes coger o dar un objeto a otra persona o recoger un objeto del suelo.
 
-**xxx:** En el nivel 7 xxx
+{{pageNumber 11}}
 
-**xxx:** Al alcanzar el nivel 10 xxx
+\page
 
-**xxx:** Cuando alcanzas el nivel 15 xxx 
+**Evasión:** A nivel 7, tu entrenamiento te permite esquivar la trayectoria de ciertas áreas de efecto, tales como el aliento de un dragón o un conjuro de bola de fuego. Cuando estás sujeto a un efecto que te permite hacer una tirada de salvación de Destreza para obtener la mitad del daño, no obtienes ningún daño. En su lugar si la superas, y si la fallas obtienes la mitad.
 
-**xxx:** A nivel 18 xxx
+**Escurridizo:** Al alcanzar el nivel 10 puede pasar por entre tus enemigos de forma espectaculares como colarse entre las piernas o apoyándote en ellos y saltándoles. Una vez por turno en tu movimiento puedes atravesar una casilla ocupada por una criatura grande o más pequeña. Esa casilla se considera terreno difícil a la hora de calcular el movimiento.
+
+**xxx:** Cuando alcanzas el nivel 15 xxx
+
+**Recepción a la desesperada:** A nivel 18 xxx
 
 ### Corredor/a
 
@@ -554,17 +571,15 @@ Unas de las figuras más queridas del CrunchBall por el público son los valient
 
 **Correr en el barro:** A nivel 3 tu entrenamiento corriendo en todo tipo de entorno hace que en combate no sufras penalizaciones por terreno difícil.
 
-{{pageNumber 11}}
+**Cazamagos:** La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 7, recibes la competencia en la habilidad Conocimiento arcano de forma que la conoces y puedes identificar las criaturas con conocimientos mágicos. Como corredor, en la defensa, una de tus tareas es derribar a los lanzadores, sean de conjuros o de balones, por ello, además, aplicas tu bonificador por competencia al daño a la hora de calcular la dificultad de la tirada de concentración.
 
-\page
+**Robar balón:** A nivel 10 tu técnica de robar balones de las manos a tus oponentes es tan buena que puedes usarla también para desarmar a tus oponentes con solo tus manos. No tienes ningún tipo de desventaja a la hora de desarmar por tamaño del oponente o por el tipo de arma.
 
-**Cazamagos:** La magia puede ser la diferencia entre ganar y perder un partido es por ello que a nivel 7, recibes la competencia en la habilidad Conocimiento arcano de forma que la conoces y puedes identificar las criaturas con conocimientos mágicos. Como corredor, en la defensa, una de tus tareas es derribar a los lanzadores, sean de conjuros o de balones, por ello, además, xxx
+Obtienes, además, ventaja en todos los intentos de robar balones durante los partidos.
 
-**Robar balón:** A nivel 10 tu técnica de robar balones de las manos a tus oponentes es tan buena que puedes usarla también para desarmar a tus oponentes con solo tus manos. xxx
+**Carga de destrucción:** Al alcanzar el nivel 15 xxx
 
-**xxx:** Al alcanzar el nivel 15 xxx 
-
-**xxx:** A nivel 18 xxx
+**Carrera heroica:** A nivel 18 xxx
 
 ## De las ligas menores (Trasfondo)
 
@@ -607,6 +622,10 @@ Los novatos y novatas se forjan en las ligas menores de crunchball, entrenando s
 |4||
 |5||
 |6|Aspiración. Mi intención es demostrarme a mí mismo que merezco jugar con las estrellas más grandes del crunchball.|
+
+{{pageNumber 12}}
+
+\page
 
 |1d6|Vínculo|
 |---|-------|
