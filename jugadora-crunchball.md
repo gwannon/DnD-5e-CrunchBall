@@ -175,7 +175,7 @@ Lo primero es decidir quien tiene la posesión del balón y lo segundo en que si
 
 ### El campo
 
-El campo tiene unas dimensiones de 10x20 casillas y está divido en dos partes para cada equipo de 10x10.
+El campo es rectángulo de 70x45 pies (14x9 casillas), pero sin esquinas (se quita un cono de 15 pies desde cada esquina) y está divido en dos partes para cada equipo de 35x45 pies (7x9 casillas). Al extremo de cada campo está la línea de gol, a donde el equipo contrario debe llegar con la pelota para marcar. Como el terreno de cada equipo se va estrechando y no puedes salirte del campo, la defensa es cada vez más fácil para el defensor.
 
 xxx
 
