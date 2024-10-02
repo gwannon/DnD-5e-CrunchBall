@@ -615,19 +615,19 @@ Los novatos y novatas se forjan en las ligas menores de crunchball, entrenando s
 |---|---------------------|
 |1|Soy fan incondicional de una estrella en particular de mi equipo preferido y hablo constantemente de sus hazañas.|
 |2||
-|3||
+|3|Soy muy urbanita, la vida de campo o salvaje te tiran para atrás.|
 |4||
-|5||
+|5|Nada ni nadie puede acabar con mi buen humor.|
 |6||
-|7||
+|7|Hay pocas cosas que me interesen fuera del crunchball.|
 |8||
 
 |1d6|Ideal|
 |---|-----|
 |1||
 |2||
-|3||
-|4||
+|3|Fortuna. Mi objetivo es ser tener mi propio equipo de crunchball y llevarlo a lo más alto.|
+|4|Tradición. Tu objetivo es preservar el crunchball puro y sin adulterar.|
 |5||
 |6|Aspiración. Mi intención es demostrarme a mí mismo que merezco jugar con las estrellas más grandes del crunchball.|
 
@@ -637,21 +637,21 @@ Los novatos y novatas se forjan en las ligas menores de crunchball, entrenando s
 
 |1d6|Vínculo|
 |---|-------|
-|1||
-|2||
-|3||
+|1|El campo de juego de mi equipo es sagrado.|
+|2|El equipo rival por antonomasia del mío pagará por su juego sucio y sus trampas.|
+|3|Le debo todo al entrenador que me dio la oportunidad de jugar en un gran equipo.|
 |4|Todo lo que hago es por los y las fans de mi equipo.|
 |5|Haré cualquier cosa por proteger al equipo en el que juego.|
-|6||
+|6|Ganar la liga es mi objetivo vital.|
 
 |1d6|Desventaja|
 |---|----------|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
+|1|Me obsesiono con el crunchball y me olvido del resto.|
+|2|Soy incapaz de reconocer mis errores, la culpa de perder el partido siempre es de otros.|
+|3|Sospecho de los contrarios, nunca son de fiar.|
+|4|Los fans de mi equipo son los mejores, me cuesta reconocer que sean mala gente.|
+|5|Me gusta apostar y a veces no soy capaz de controlarme sobre todo cuando juega mi equipo.|
+|6|La palabra de mi entrenador es ley, no se cuestiona nunca.|
 
 {{pageNumber 12}}
 
