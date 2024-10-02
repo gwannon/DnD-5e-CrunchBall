@@ -614,13 +614,13 @@ Los novatos y novatas se forjan en las ligas menores de crunchball, entrenando s
 |1d8|Rasgo de personalidad|
 |---|---------------------|
 |1|Soy fan incondicional de una estrella en particular de mi equipo preferido y hablo constantemente de sus hazañas.|
-|2||
+|2|Me encanta la fiesta, la comida y la bebida, lo cual interfiere en mi juego.|
 |3|Soy muy urbanita, la vida de campo o salvaje te tiran para atrás.|
-|4||
+|4|Tengo miedo a perder y a veces eso me paraliza.|
 |5|Nada ni nadie puede acabar con mi buen humor.|
-|6||
+|6|Estoy obsesionado con mejorar mi físico.|
 |7|Hay pocas cosas que me interesen fuera del crunchball.|
-|8||
+|8|No sé jugar en equipo, soy muy individualista.|
 
 |1d6|Ideal|
 |---|-----|
