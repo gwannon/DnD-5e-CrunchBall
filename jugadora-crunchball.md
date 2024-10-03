@@ -583,7 +583,11 @@ Obtienes, además, ventaja en todos los intentos de robar balones durante los pa
 
 **Carrera heroica:** A nivel 18 xxx
 
-## De las ligas menores (Trasfondo)
+{{pageNumber 12}}
+
+\page
+
+# De las ligas menores (Trasfondo)
 
 Es crunchball es tu pasión y llevas jugando a este fantástico deporte desde muy pequeño. Has respirado, comido y bebido crunchball todos los días de tu vida y ahora estás esperando a que algún entrenador de un equipo de segunda venga a tu pueblo y te ofrezca tu primer partido profesional. Quizás te haya escogido porque tiene medio banquillo lesionado, de resaca o en la cárcel. Pero da lo mismo, piensas aprovechar esta oportunidad y lo vas a dar todo en el campo.
 
@@ -624,10 +628,6 @@ Los novatos y novatas se forjan en las ligas menores de crunchball, entrenando s
 |4|Tradición. Tu objetivo es preservar el crunchball puro y sin adulterar. (Legal)|
 |5|Fortuna. Mi objetivo es ser tener mi propio equipo de crunchball y llevarlo a lo más alto. (Neutral)|
 |6|Aspiración. Mi intención es demostrarme a mí mismo que merezco jugar con las estrellas más grandes del crunchball. (Cualquiera)|
-
-{{pageNumber 12}}
-
-\page
 
 |1d6|Vínculo|
 |---|-------|
