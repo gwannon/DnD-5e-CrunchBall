@@ -624,12 +624,12 @@ Los novatos y novatas se forjan en las ligas menores de crunchball, entrenando s
 
 |1d6|Ideal|
 |---|-----|
-|1||
-|2||
-|3|Fortuna. Mi objetivo es ser tener mi propio equipo de crunchball y llevarlo a lo más alto.|
-|4|Tradición. Tu objetivo es preservar el crunchball puro y sin adulterar.|
-|5||
-|6|Aspiración. Mi intención es demostrarme a mí mismo que merezco jugar con las estrellas más grandes del crunchball.|
+|1|Buen samaritano. El crunchball puede cambiar el mundo para bien, solo hay que saber enforcarlo. (Bueno)|
+|2|Mal ganador. Solo importa ganar, cómo se consigue no es importante. (Malvado)|
+|3|Ilegal. Las reglas hacen del crunchball y de la vida algo aburrido y yo quiero divertirme. (Chaotic)|
+|4|Tradición. Tu objetivo es preservar el crunchball puro y sin adulterar. (Legal)|
+|5|Fortuna. Mi objetivo es ser tener mi propio equipo de crunchball y llevarlo a lo más alto. (Neutral)|
+|6|Aspiración. Mi intención es demostrarme a mí mismo que merezco jugar con las estrellas más grandes del crunchball. (Cualquiera)|
 
 {{pageNumber 12}}
 
@@ -639,7 +639,7 @@ Los novatos y novatas se forjan en las ligas menores de crunchball, entrenando s
 |---|-------|
 |1|El campo de juego de mi equipo es sagrado.|
 |2|El equipo rival por antonomasia del mío pagará por su juego sucio y sus trampas.|
-|3|Le debo todo al entrenador que me dio la oportunidad de jugar en un gran equipo.|
+|3|Le debo todo al entrenador/a que me dio la oportunidad de jugar en un gran equipo.|
 |4|Todo lo que hago es por los y las fans de mi equipo.|
 |5|Haré cualquier cosa por proteger al equipo en el que juego.|
 |6|Ganar la liga es mi objetivo vital.|
