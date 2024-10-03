@@ -471,7 +471,7 @@ A partir del nivel 5, cuando realizas un ataque CaC sin usar armas o con nudille
 
 A partir del nivel 8, puedes atacar dos veces en lugar de una cuando realices la acción de ataque durante tu turno.
 
-El número de ataques aumenta a tres cuando llegas al nivel 17 de esta clase.
+El número de ataques aumenta a tres cuando llegas al nivel 17 de esta clase. Si tu posición en el campo es Bloqueador/a recibes otro ataque adicional a nivel 15.
 
 ### Leer a tu oponente I
 
@@ -507,12 +507,6 @@ Es una taberna magnífica con numerosas estancias. La atmósfera es limpia, fres
 
 Además podrás ver los partidos que desees desde el palco de honor y te invitarán a encuentros de viejas glorias donde disfrutaras recordando los buenos tiempos.
 
-
-Conversaciones
-5,79 GB ocupados de 15 GB
-Términos · Privacidad · Política del programa
-Última actividad de la cuenta: hace 0 minutos
-Detalles
 ## Posiciones en el campo
 
 Cada JCB, según avanza en su desarrollo deportivo, se puede especializar en 4 posiciones (arquetipos) y aprender las destrezas y las habilidades de ese puesto.
@@ -533,7 +527,7 @@ Solo puedes caerle encima a criaturas hasta una categoría de tamaño mayor que 
 
 \column
 
-**xxx:** Cuando alcanzas el nivel 15 xxx
+**Ataque adicional:** Cuando alcanzas el nivel 15 recibes un ataque adicional.
 
 **Bloqueo heroico:** A nivel 18 xxx
 
@@ -571,7 +565,7 @@ En caso de tener que hacer tiradas el bonificador de Destreza se suma a tu Fue. 
 
 **xxx:** Cuando alcanzas el nivel 15 xxx
 
-**Recepción a la desesperada:** A nivel 18 xxx
+**Recepción desesperada:** A nivel 18 xxx
 
 ### Corredor/a
 
