@@ -95,7 +95,7 @@ El uso de magia dentro del campo está Muy restringido, según dicen los experto
 
 # Salón de la fama
 
-A lo largo de la historia ha habido grandes jugadores y jugadoras de CrunChBall y la mayoría han muerto demasiado jóvenes y casi siempre de forma brutal y violenta. 
+A lo largo de la historia ha habido grandes jugadores y jugadoras de CrunchBall y la mayoría han muerto demasiado jóvenes y casi siempre de forma brutal y violenta. 
 
 xxx
 
@@ -175,9 +175,7 @@ Lo primero es decidir quien tiene la posesión del balón y lo segundo en que si
 
 El campo es rectángulo de 70x45 pies (14x9 casillas), pero sin esquinas (se quita un cono de 15 pies desde cada esquina) y está divido en dos partes para cada equipo de 35x45 pies (7x9 casillas). Al extremo de cada campo está la línea de gol, a donde el equipo contrario debe llegar con la pelota para marcar. Como el terreno de cada equipo se va estrechando y no puedes salirte del campo, la defensa es cada vez más fácil para el defensor.
 
-xxx!
-
-
+xxx
 
 {{wide
 
@@ -203,7 +201,7 @@ Hay dos excepciones a esa regla, si es parte del jugador o jugadora o si está i
 
 Así pues para empezar, una hechicera enana podría entrar en el campo y lanzar cualquier hechizo de su lista de conjuros con normalidad. Lo que sucedería es que el equipo contrario se lanzaría a por ella nada más gesticular el primer hechizo.
 
-Sin embargo tirar un hechizo en el entretiempo y volver al campo con sus efectos activos se considera ilegal aunque te lo hayas lanzado tú mismo.
+Sin embargo, tirar un hechizo en el entretiempo y volver al campo con sus efectos activos se considera ilegal aunque te lo hayas lanzado tú mismo.
 
 Por otro lado, un jugador podría jugar todo un partido con una cota de llamas +1 sin problemas y unos brazaletes de protección. Pero serían ilegales si tuvieran algún poder no defensivo como por ejemplo un casco que da luz.
 
@@ -309,7 +307,7 @@ ___
 
 Una opción muy interesante es introducir en tu campaña una liga de CrunchBall de forma que la excusa para moverse por todo el mundo sea participar en diferentes partidos. En cada nuevo lugar podrían tener una aventura y además avanzar en la liga compitiendo con el equipo local.
 
-Otra opción es que la propia liga sea la campaña y montar una especie de aventura en el que un equipo de perdedores van mejorando y ganando partidos. Cada capítulo puede ser la preparación y el jugar el partido teniendo en cada pueblo alguna aventura extra. Planteátelo como jugar esas películas de equipos de perdedores con entrenador borracho que acaban ganando la liga para sorpresa de todos. 
+Otra opción es que la propia liga sea la campaña y montar una especie de aventura en el que un equipo de perdedores van mejorando y ganando partidos. Cada capítulo puede ser la preparación y el jugar el partido teniendo en cada pueblo alguna aventura extra. Planteátelo como jugar esas películas de equipos de perdedores con entrenador borracho que acaban ganando la liga para sorpresa de todos.
 :
 ![Orcos humanos](https://raw.githubusercontent.com/gwannon/DnD-5e-CrunchBall/refs/heads/main/images/orcos-humanos.jpg) {width:325px,mix-blend-mode:multiply}
 
@@ -503,9 +501,9 @@ Solo muy pocos llegan a este nivel de maestría en este deporte y es por ello qu
 
 Consigues una taberna con tu vivienda encima. La taberna está cerca del campo de tu equipo preferido.
 
-Es una taberna magnífica con numerosas estancias. La atmósfera es limpia, fresca y acogedora. El lugar está amueblado y decorado con recuerdos de tu años jugando a CrunchBall. Contiene bebida suficiente como para servir copas y jarras de buen alcohol a 100 personas. Trabajan para ti unas 10 personas que sirven bebida y comida, limpian, cocinan, hacen cuentas y te dejan 2000 mo limpias todos los meses para tus gastos.
+Es una taberna magnífica con numerosas estancias. La atmósfera es limpia, fresca y acogedora. El lugar está amueblado y decorado con recuerdos de tus años jugando a CrunchBall. Contiene bebida suficiente como para servir copas y jarras de buen alcohol a 100 personas. Trabajan para ti unas 10 personas que sirven bebida y comida, limpian, cocinan, hacen cuentas y te dejan 2000 mo limpias todos los meses para tus gastos.
 
-Además podrás ver los partidos que desees desde el palco de honor y te invitarán a encuentros de viejas glorias donde disfrutaras recordando los buenos tiempos.
+Además, podrás ver los partidos que desees desde el palco de honor y te invitarán a encuentros de viejas glorias donde disfrutaras recordando los buenos tiempos.
 
 ## Posiciones en el campo
 
@@ -521,7 +519,7 @@ Su misión es defender al resto del equipo mientras hacen su jugada o romper las
 
 **Caer en plancha:** Al alcanzar el nivel 10 aprendes a usar tu corpulencia como arma para caer en plancha sobre tus contrincantes y derribarlos.
 
-Si te mueves mínimo 10 pies puedes elegir un enemigo y un enemigo adyacente a él y caer sobre ellos. Los seres que estén en esas casillas deben hacer una salvación de Destreza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar que les caigas encima o recibir 3d8 + bonificador de Fue de daño. Si reciben daño acaban derribados en el suelo. Además el oponente principal siempre es empujado 5 pies en una dirección a tu elección.
+Si te mueves mínimo 10 pies puedes elegir un enemigo y un enemigo adyacente a él y caer sobre ellos. Los seres que estén en esas casillas deben hacer una salvación de Destreza (CD 8 + tu bonificador por competencia + tu modificador por Fuerza) para evitar que les caigas encima o recibir 3d8 + bonificador de Fue de daño. Si reciben daño acaban derribados en el suelo. Además, el oponente principal siempre es empujado 5 pies en una dirección a tu elección.
 
 Solo puedes caerle encima a criaturas hasta una categoría de tamaño mayor que la tuya y por desgracia tú también acabas derribado en la casilla donde estaba el enemigo empujado.
 

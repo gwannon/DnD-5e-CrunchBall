@@ -18,3 +18,14 @@ Arneson
 Gygax
 Gwannon
 footnote
+height
+left
+position
+absolute
+offsetX
+offsetY
+rotation
+crunchball
+imageMaskCenter13
+insideCover
+newbies
